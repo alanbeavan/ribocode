@@ -1,0 +1,97 @@
+6r6g.cif title:
+Structure of XBP1u-paused ribosome nascent chain complex with SRP. [more info...]
+
+Chain information for 6r6g.cif #3
+Chain	Description	UniProt
+0	eS31	G1SK22_RABIT 83-150
+1	X-box-binding protein 1	XBP1_HUMAN 237-260
+2	P-tRNA	
+3	E-tRNA	
+4	mRNA	
+5	28S ribosomal RNA	
+6	ribosomal protein RACK1	G1SJB4_RABIT 2-314
+7	5S ribosomal RNA	
+8	5.8S ribosomal RNA	
+9	uS14	G1U7M4_RABIT 2-56
+A	uL2	G1TT27_RABIT 2-249
+AA	40S ribosomal protein S30	G1T8A2_RABIT 78-132
+AB	Signal recognition particle 54 kDa protein	SRP54_CANLF 4-434
+AC	Signal recognition particle subunit SRP19	J9PAS6_CANLF 13-117
+AD	Signal recognition particle 9 kDa protein	F1Q0Z5_CANLF 2-75
+AE	Signal recognition particle 14 kDa protein	SRP14_CANLF 2-95
+AF	7S RNA	
+AG	Signal sequence (HR2)	
+AI	Signal recognition particle subunit SRP68	SRP68_CANLF 50-244
+B	uL3	G1TL06_RABIT 2-395
+BB	40S ribosomal protein S7	G1SVB0_RABIT 6-194
+C	uL4	G1SVW5_RABIT 2-363
+CC	40S ribosomal protein S8	G1TJW1_RABIT 2-207
+D	60S ribosomal protein L5	G1SYJ6_RABIT 3-295
+DD	Ribosomal protein S9 (Predicted)	B7NZS8_RABIT 2-186
+E	60S ribosomal protein L6	G1SKF7_RABIT 41-291
+EE	Ribosomal protein S11	G1TRM4_RABIT 3-153
+F	uL30	G1SV32_RABIT 23-247
+FF	Ribosomal protein S28	G1TIB4_RABIT 7-68
+G	eL8	G1STW0_RABIT 80-319
+GG	Ribosomal protein S20	
+H	uL6	G1TX33_RABIT 1-190
+HH	40S ribosomal protein S21	
+I	Ribosomal protein L10 (Predicted)	B7NZQ2_RABIT 2-214
+II	uS13	G1SZI5_RABIT 2-145
+J	Ribosomal protein L11	G1TUB8_RABIT 8-177
+JJ	40S ribosomal protein S27	G1TZ76_RABIT 2-84
+K	18S ribosomal RNA	
+KK	eS17	G1TU13_RABIT 2-133
+L	60S ribosomal protein L13	G1TPV0_RABIT 2-211
+LL	40S ribosomal protein S26	
+M	Ribosomal protein L14	U3KNW6_RABIT 2-139
+MM	40S ribosomal protein S14	
+N	Ribosomal protein L15	G1T0C1_RABIT 2-204
+NN	40S ribosomal protein S24	
+O	60S ribosomal protein L13a	
+OO	ribosomal protein eS25	G1TDB3_RABIT 41-115
+P	uL22	G1TVT6_RABIT 2-154
+PP	eS19	G1TN62_RABIT 3-143
+Q	eL18	G1TX70_RABIT 2-188
+QQ	ribosomal protein uS15	G1SP51_RABIT 2-150
+R	60S ribosomal protein L19	
+RR	40S ribosomal protein S12	G1SFR8_RABIT 14-130
+S	eL20	
+SS	eS10	G1TPV3_RABIT 1-96
+T	eL21	G1SHQ2_RABIT 2-160
+TT	Ribosomal protein S15a	G1TG89_RABIT 2-130
+U	60S ribosomal protein L22	
+UU	Ribosomal protein S16	G1SGX4_RABIT 5-146
+V	eL14	G1T6D1_RABIT 10-140
+VV	Ribosomal protein S23	G1SZ47_RABIT 2-142
+W	Ribosomal protein L24	G1SE28_RABIT 1-121
+WW	uS19	G1U0Q2_RABIT 12-131
+X	uL23	G1SE76_RABIT 39-156
+Y	Ribosomal protein L26	G1SQH0_RABIT 1-134
+Z	60S ribosomal protein L27	G1TXF6_RABIT 2-136
+a	uL15	G1SNY0_RABIT 2-148
+b	eL29	G1SGR6_RABIT 2-117
+c	eL30	G1TDL2_RABIT 10-107
+d	eL31	G1SHG0_RABIT 18-124
+e	eL32	G1TUN8_RABIT 2-129
+f	eL33	G1SF08_RABIT 2-110
+g	eL34	G1U945_RABIT 2-115
+h	uL29	G1SIT5_RABIT 2-123
+i	60S ribosomal protein L36	G1TTQ5_RABIT 2-103
+j	Ribosomal protein L37	U3KPD5_RABIT 2-87
+k	60S ribosomal protein L38	
+l	eL39	G1TTN1_RABIT 2-51
+m	60S ribosomal protein L40	
+n	60s ribosomal protein l41	A0A087WNH4_RABIT 1-25
+o	eL42	G1T040_RABIT 2-105
+p	ribosomal protein eL43	G1SY53_RABIT 2-92
+q	uS2	
+r	eL28	G1U7L1_RABIT 2-125
+s	60S acidic ribosomal protein P0	G1U6N2_RABIT 5-200
+t	uL11	G1SMR7_RABIT 9-161
+u	40S ribosomal protein S3a	G1SS70_RABIT 21-233
+v	uS5	
+w	Ribosomal protein S3	G1TNM3_RABIT 1-228
+x	40S ribosomal protein S4	G1TK17_RABIT 2-263
+y	Ribosomal protein S5	G1TFM5_RABIT 14-204
+z	40S ribosomal protein S6	G1TM55_RABIT 1-237

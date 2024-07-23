@@ -1,0 +1,88 @@
+Translocation intermediate 4 (TI-4) of 80S S. cerevisiae ribosome with ligands and eEF2 in the presence of sordarin [more info...]
+
+Chain information for 8ceh.cif #11
+Chain	Description	UniProt
+0	40S ribosomal protein S24-A	RS24A_YEAST 1-135
+1	40S ribosomal protein S25-A	RS25A_YEAST 1-108
+2	40S ribosomal protein S26	A0A6A5PUG0_YEASX 1-119
+3	40S ribosomal protein S27-A	RS27A_YEAST 1-82
+4	40S ribosomal protein S28-A	RS28A_YEAST 1-67
+5	HLJ1_G0030400.mRNA.1.CDS.1	A0A6A5PV92_YEASX 1-56
+6	40S ribosomal protein S30-A	RS30A_YEAST 1-63
+7	Guanine nucleotide-binding protein subunit beta-like protein	GBLP_YEAST 1-319
+8	Ubiquitin-40S ribosomal protein S31	A0A6A5PU37_YEASX 1-152
+A	60S ribosomal protein L16-A	RL16A_YEAST 1-199
+AA	25S ribosomal RNA	
+Aa	Elongation factor 2	A0A6A5Q7K2_YEASX 1-842
+B	60S ribosomal protein L17-A	RL17A_YEAST 1-184
+BB	5S ribosomal RNA	
+Bb	Transfer RNA Phe	
+C	60S ribosomal protein L18-A	RL18A_YEAST 1-186
+CC	5.8S ribosomal RNA	
+Cc	Transfer RNA fMet	
+D	60S ribosomal protein L19-A	RL19A_YEAST 1-189
+DD	60S acidic ribosomal protein P0	RLA0_YEAST 1-312
+Dd	Messenger RNA	
+E	60S ribosomal protein L20-A	RL20A_YEAST 1-172
+EE	60S ribosomal protein L2-A	RL2A_YEAST 1-254
+Ee	60S ribosomal protein L12-A	RL12A_YEAST 1-165
+F	60S ribosomal protein L21-A	RL21A_YEAST 1-160
+FF	60S ribosomal protein L3	RL3_YEAST 1-387
+G	60S ribosomal protein L22-A	RL22A_YEAST 1-121
+GG	60S ribosomal protein L4-A	RL4A_YEAST 1-362
+H	60S ribosomal protein L23-A	RL23A_YEAST 1-137
+HH	60S ribosomal protein L5	RL5_YEAST 1-297
+I	60S ribosomal protein L24-A	RL24A_YEAST 1-155
+II	60S ribosomal protein L6-A	RL6A_YEAST 1-176
+J	60S ribosomal protein L25	RL25_YEAST 1-142
+JJ	60S ribosomal protein L7-A	RL7A_YEAST 1-244
+K	60S ribosomal protein L26-A	RL26A_YEAST 1-127
+KK	60S ribosomal protein L8-A	RL8A_YEAST 1-256
+L	60S ribosomal protein L27-A	RL27A_YEAST 1-136
+LL	RPL9A isoform 1	A0A8H4FCT7_YEASX 1-191
+M	60S ribosomal protein L28	RL28_YEAST 1-149
+MM	60S ribosomal protein L10	RL10_YEAST 1-221
+N	60S ribosomal protein L29	RL29_YEAST 1-59
+NN	60S ribosomal protein L11-A	RL11A_YEAST 1-174
+O	60S ribosomal protein L30	RL30_YEAST 1-105
+OO	60S ribosomal protein L13-A	RL13A_YEAST 1-199
+P	60S ribosomal protein L31-A	RL31A_YEAST 1-113
+PP	60S ribosomal protein L14-A	RL14A_YEAST 1-138
+Pp	Polypeptide	
+Q	60S ribosomal protein L32	RL32_YEAST 1-130
+QQ	60S ribosomal protein L15-A	RL15A_YEAST 1-204
+R	60S ribosomal protein L33-A	RL33A_YEAST 1-107
+S	60S ribosomal protein L34-A	RL34A_YEAST 1-121
+T	60S ribosomal protein L35-A	RL35A_YEAST 1-120
+U	60S ribosomal protein L36-A	RL36A_YEAST 1-100
+V	60S ribosomal protein L37-A	RL37A_YEAST 1-88
+W	60S ribosomal protein L38	RL38_YEAST 1-78
+X	60S ribosomal protein L39	RL39_YEAST 1-51
+Y	Ubiquitin-60S ribosomal protein L40	RL40A_YEAST 1-128
+Z	60S ribosomal protein L41	A0A8H8UMB4_YEASX 1-25
+a	60S ribosomal protein L42-A	RL44A_YEAST 1-106
+b	60S ribosomal protein L43-A	RL43A_YEAST 1-92
+c	18S ribosomal RNA	
+d	40S ribosomal protein S0-A	RSSA1_YEAST 1-252
+e	40S ribosomal protein S1-A	RS3A1_YEAST 1-255
+f	40S ribosomal protein S2	RS2_YEAST 1-254
+g	RPS3 isoform 1	A0A6A5Q3Q1_YEASX 1-240
+h	40S ribosomal protein S4-A	RS4A_YEAST 1-261
+i	40S ribosomal protein S5	RS5_YEAST 1-225
+j	40S ribosomal protein S6-A	RS6A_YEAST 1-236
+k	40S ribosomal protein S7-A	RS7A_YEAST 1-190
+l	40S ribosomal protein S8-B	RS8B_YEAST 1-200
+m	40S ribosomal protein S9-A	RS9A_YEAST 1-197
+n	40S ribosomal protein S10-A	RS10A_YEAST 1-105
+o	40S ribosomal protein S11-A	RS11A_YEAST 1-156
+p	40S ribosomal protein S13	RS13_YEAST 1-151
+q	40S ribosomal protein S14-A	RS14A_YEAST 1-137
+r	40S ribosomal protein S15	RS15_YEAST 1-142
+s	40S ribosomal protein S16-A	RS16A_YEAST 1-143
+t	40S ribosomal protein S17-A	RS17A_YEAST 1-136
+u	40S ribosomal protein S18-A	RS18A_YEAST 1-146
+v	40S ribosomal protein S19-A	RS19A_YEAST 1-144
+w	40S ribosomal protein S20	A0A6A5PVE9_YEASX 1-121
+x	40S ribosomal protein S21-A	RS21A_YEAST 1-87
+y	40S ribosomal protein S22-A	RS22A_YEAST 1-130
+z	40S ribosomal protein S23-A	RS23A_YEAST 1-145

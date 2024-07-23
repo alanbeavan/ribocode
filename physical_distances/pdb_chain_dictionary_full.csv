@@ -1,0 +1,1208 @@
+ribosome	chain	protein_name	family
+4V6W	Chain A	Elongation factor 2	NO_PERFECT_MATCH_CHECK
+4V6W	Chain B	Guanine nucleotide-binding protein subunit beta-like protein	NO_PERFECT_MATCH_CHECK
+4V6W	Chain C	40S ribosomal protein S20	RPS20
+4V6W	Chain D	40S ribosomal protein S10a	RPS10
+4V6W	Chain E	40S ribosomal protein S14	RPS14
+4V6W	Chain F	40S ribosomal protein S23	RPS23
+4V6W	Chain G	40S ribosomal protein S12	RPS12
+4V6W	Chain H	40S ribosomal protein S18	RPS18
+4V6W	Chain I	40S ribosomal protein S29	RPS29
+4V6W	Chain J	40S ribosomal protein S13	RPS13
+4V6W	Chain K	40S ribosomal protein S11	RPS11
+4V6W	Chain L	40S ribosomal protein S17	RPS17
+4V6W	Chain M	40S ribosomal protein S15, isoform A	RPS15
+4V6W	Chain N	40S ribosomal protein S19a	RPS19
+4V6W	Chain O	40S ribosomal protein S3a	RPS3A
+4V6W	Chain P	40S ribosomal protein SA	RPSA
+4V6W	Chain Q	40S ribosomal protein S21	RPS21
+4V6W	Chain R	40S ribosomal protein S24	RPS24
+4V6W	Chain S	40S ribosomal protein S25	RPS25
+4V6W	Chain T	40S ribosomal protein S26	RPS26
+4V6W	Chain U	40S ribosomal protein S27	RPS27
+4V6W	Chain V	40S ribosomal protein S28	RPS28
+4V6W	Chain W	40S ribosomal protein S3	RPS3
+4V6W	Chain X	40S ribosomal protein S30, isoform A	RPS30
+4V6W	Chain Y	40S ribosomal protein S27a	RPS27A
+4V6W	Chain Z	40S ribosomal protein S9	RPS9
+4V6W	Chain AA	40S ribosomal protein S4	RPS4
+4V6W	Chain BA	40S ribosomal protein S2	RPS2
+4V6W	Chain CA	40S ribosomal protein S6	RPS6
+4V6W	Chain DA	40S ribosomal protein S5a	RPS5
+4V6W	Chain EA	40S ribosomal protein S7	RPS7
+4V6W	Chain FA	40S ribosomal protein S15Aa	RPS15A
+4V6W	Chain GA	40S ribosomal protein S8	RPS8
+4V6W	Chain HA	40S ribosomal protein S16	RPS16
+4V6W	Chain IA	Vig2, isoform B	NO_PERFECT_MATCH_CHECK
+4V6W	Chain JA	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+4V6W	Chain KA	E-tRNA	NO_PERFECT_MATCH_CHECK
+4V6W	Chain LA	60S ribosomal protein L10a-2	RPL10A
+4V6W	Chain MA	60S acidic ribosomal protein P0	RPLP0
+4V6W	Chain NA	60S ribosomal protein L12	RPL12
+4V6W	Chain OA	60S ribosomal protein L13a	RPL13A
+4V6W	Chain PA	60S ribosomal protein L13	RPL13
+4V6W	Chain QA	60S ribosomal protein L23	RPL23
+4V6W	Chain RA	60S ribosomal protein L14	RPL14
+4V6W	Chain SA	60S ribosomal protein L27a	RPL27A
+4V6W	Chain TA	60S ribosomal protein L15	RPL15
+4V6W	Chain UA	60S ribosomal protein L10	RPL10
+4V6W	Chain VA	60S ribosomal protein L5	RPL5
+4V6W	Chain WA	60S ribosomal protein L18	RPL18
+4V6W	Chain XA	60S ribosomal protein L19	RPL19
+4V6W	Chain YA	60S ribosomal protein L8	RPL8
+4V6W	Chain ZA	60S ribosomal protein L18a	RPL18A
+4V6W	Chain AB	60S ribosomal protein L21	RPL21
+4V6W	Chain BB	60S ribosomal protein L17	RPL17
+4V6W	Chain CB	60S ribosomal protein L22	RPL22
+4V6W	Chain DB	60S ribosomal protein L23A	RPL23A
+4V6W	Chain EB	60S ribosomal protein L26	RPL26
+4V6W	Chain FB	60S ribosomal protein L24	RPL24
+4V6W	Chain GB	60S ribosomal protein L27	RPL27
+4V6W	Chain HB	60S ribosomal protein L28	RPL28
+4V6W	Chain IB	60S ribosomal protein L35	RPL35
+4V6W	Chain JB	60S ribosomal protein L29	RPL29
+4V6W	Chain KB	60S ribosomal protein L3	RPL3
+4V6W	Chain LB	60S ribosomal protein L7	RPL7
+4V6W	Chain MB	60S ribosomal protein L30	RPL30
+4V6W	Chain NB	60S ribosomal protein L31	RPL31
+4V6W	Chain OB	60S ribosomal protein L32	RPL32
+4V6W	Chain PB	60S ribosomal protein L35A	RPL35A
+4V6W	Chain QB	60S ribosomal protein L34a	RPL34
+4V6W	Chain RB	60S ribosomal protein L36	RPL36
+4V6W	Chain SB	60S ribosomal protein L37-A	RPL37
+4V6W	Chain TB	60S ribosomal protein L38	RPL38
+4V6W	Chain UB	60S ribosomal protein L39	RPL39
+4V6W	Chain VB	60S ribosomal protein L4	RPL4
+4V6W	Chain WB	60S ribosomal protein L40	RPL40
+4V6W	Chain XB	60S ribosomal protein L41	RPL41
+4V6W	Chain YB	60S ribosomal protein L37a	RPL37A
+4V6W	Chain ZB	60S ribosomal protein L36A	RPL36A
+4V6W	Chain AC	60S ribosomal protein L11	RPL11
+4V6W	Chain BC	60S ribosomal protein L9	RPL9
+4V6W	Chain CC	60S ribosomal protein L6, isoform A	RPL6
+4V6W	Chain DC	60S ribosomal protein L7a	RPL7A
+4V6W	Chain EC	28S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+4V6W	Chain FC	2S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+4V6W	Chain GC	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+4V6W	Chain HC	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain A	28S rRNA	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain J	60S ribosomal protein L7a	RPL7A
+6Z6M	Chain K	60S ribosomal protein L9	RPL9
+6Z6M	Chain L	60S ribosomal protein L10-like	RPL10
+6Z6M	Chain M	60S ribosomal protein L11	RPL11
+6Z6M	Chain N	60S ribosomal protein L13	RPL13
+6Z6M	Chain O	60S ribosomal protein L14	RPL14
+6Z6M	Chain P	60S ribosomal protein L15	RPL15
+6Z6M	Chain Q	60S ribosomal protein L13a	RPL13A
+6Z6M	Chain R	60S ribosomal protein L17	RPL17
+6Z6M	Chain S	60S ribosomal protein L18	RPL18
+6Z6M	Chain B	5S rRNA	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain T	60S ribosomal protein L19	RPL19
+6Z6M	Chain U	60S ribosomal protein L18a	RPL18A
+6Z6M	Chain V	60S ribosomal protein L21	RPL21
+6Z6M	Chain W	60S ribosomal protein L22	RPL22
+6Z6M	Chain X	60S ribosomal protein L23	RPL23
+6Z6M	Chain Y	60S ribosomal protein L24	RPL24
+6Z6M	Chain Z	60S ribosomal protein L23a	RPL23A
+6Z6M	Chain AA	60S ribosomal protein L26	RPL26
+6Z6M	Chain BA	60S ribosomal protein L27	RPL27
+6Z6M	Chain CA	60S ribosomal protein L27a	RPL27A
+6Z6M	Chain C	5.8S rRNA	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain DA	60S ribosomal protein L29	RPL29
+6Z6M	Chain EA	60S ribosomal protein L30	RPL30
+6Z6M	Chain FA	60S ribosomal protein L31	RPL31
+6Z6M	Chain GA	60S ribosomal protein L32	RPL32
+6Z6M	Chain HA	60S ribosomal protein L35a	RPL35A
+6Z6M	Chain IA	60S ribosomal protein L34	RPL34
+6Z6M	Chain JA	60S ribosomal protein L35	RPL35
+6Z6M	Chain KA	60S ribosomal protein L36	RPL36
+6Z6M	Chain LA	60S ribosomal protein L37	RPL37
+6Z6M	Chain MA	60S ribosomal protein L38	RPL38
+6Z6M	Chain D	60S ribosomal protein L8	RPL8
+6Z6M	Chain NA	60S ribosomal protein L39	RPL39
+6Z6M	Chain OA	Ubiquitin-60S ribosomal protein L40	RPL40
+6Z6M	Chain PA	60S ribosomal protein L41	RPL41
+6Z6M	Chain QA	60S ribosomal protein L36a	RPL36A
+6Z6M	Chain RA	60S ribosomal protein L37a	RPL37A
+6Z6M	Chain SA	60S ribosomal protein L28	RPL28
+6Z6M	Chain TA	60S ribosomal protein L10a	RPL10A
+6Z6M	Chain UA	18S rRNA	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain VA	40S ribosomal protein SA	RPSA
+6Z6M	Chain WA	40S ribosomal protein S3a	RPS3A
+6Z6M	Chain E	60S ribosomal protein L3	RPL3
+6Z6M	Chain XA	40S ribosomal protein S3	RPS3
+6Z6M	Chain YA	40S ribosomal protein S4, X isoform	RPS4
+6Z6M	Chain ZA	40S ribosomal protein S5	RPS5
+6Z6M	Chain AB	40S ribosomal protein S7	RPS7
+6Z6M	Chain BB	40S ribosomal protein S8	RPS8
+6Z6M	Chain CB	40S ribosomal protein S10	RPS10
+6Z6M	Chain DB	40S ribosomal protein S11	RPS11
+6Z6M	Chain EB	40S ribosomal protein S15	RPS15
+6Z6M	Chain FB	40S ribosomal protein S16	RPS16
+6Z6M	Chain GB	40S ribosomal protein S17	RPS17
+6Z6M	Chain F	60S ribosomal protein L4	RPL4
+6Z6M	Chain HB	40S ribosomal protein S18	RPS18
+6Z6M	Chain IB	40S ribosomal protein S19	RPS19
+6Z6M	Chain JB	40S ribosomal protein S20	RPS20
+6Z6M	Chain KB	40S ribosomal protein S21	RPS21
+6Z6M	Chain LB	40S ribosomal protein S23	RPS23
+6Z6M	Chain MB	40S ribosomal protein S26	RPS26
+6Z6M	Chain NB	40S ribosomal protein S28	RPS28
+6Z6M	Chain OB	40S ribosomal protein S29	RPS29
+6Z6M	Chain PB	Receptor of activated protein C kinase 1	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain QB	40S ribosomal protein S2	RPS2
+6Z6M	Chain G	60S ribosomal protein L5	RPL5
+6Z6M	Chain RB	40S ribosomal protein S6	RPS6
+6Z6M	Chain SB	40S ribosomal protein S9	RPS9
+6Z6M	Chain TB	40S ribosomal protein S12	RPS12
+6Z6M	Chain UB	40S ribosomal protein S13	RPS13
+6Z6M	Chain VB	40S ribosomal protein S14	RPS14
+6Z6M	Chain WB	40S ribosomal protein S15a	RPS15A
+6Z6M	Chain XB	40S ribosomal protein S24	RPS24
+6Z6M	Chain YB	40S ribosomal protein S25	RPS25
+6Z6M	Chain ZB	40S ribosomal protein S27	RPS27
+6Z6M	Chain AC	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain H	60S ribosomal protein L6	RPL6
+6Z6M	Chain BC	Ubiquitin-40S ribosomal protein S27a	RPL40
+6Z6M	Chain CC	Proliferation-associated protein 2G4	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain DC	Elongation factor 2	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain EC	tRNA	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain FC	Plasminogen activator inhibitor 1 RNA-binding protein	NO_PERFECT_MATCH_CHECK
+6Z6M	Chain I	60S ribosomal protein L7	RPL7
+4V7E	Chain A	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+4V7E	Chain J	RACK1	NO_PERFECT_MATCH_CHECK
+4V7E	Chain K	40S ribosomal protein S3	RPS3
+4V7E	Chain L	40S ribosomal protein S4E	RPS4
+4V7E	Chain M	40S ribosomal protein S7	RPS5
+4V7E	Chain N	40S ribosomal protein S9	RPS16
+4V7E	Chain O	40S ribosomal protein S10	RPS20
+4V7E	Chain P	40S ribosomal protein S11	RPS14
+4V7E	Chain Q	40S ribosomal protein S13	RPS18
+4V7E	Chain R	40S ribosomal protein S15	NO_PERFECT_MATCH_CHECK
+4V7E	Chain S	40S ribosomal protein S17	RPS11
+4V7E	Chain B	P-site tRNA	NO_PERFECT_MATCH_CHECK
+4V7E	Chain T	40S ribosomal protein S19E	RPS19
+4V7E	Chain U	40S ribosomal protein S19	NO_PERFECT_MATCH_CHECK
+4V7E	Chain V	40S ribosomal protein S25E	NO_PERFECT_MATCH_CHECK
+4V7E	Chain W	40S ribosomal protein S28E	NO_PERFECT_MATCH_CHECK
+4V7E	Chain X	40S ribosomal protein S8	RPS15A
+4V7E	Chain Y	40S ribosomal protein S14	RPS29
+4V7E	Chain Z	40S ribosomal protein S27E	RPS27
+4V7E	Chain AA	40S ribosomal protein S30E	NO_PERFECT_MATCH_CHECK
+4V7E	Chain BA	40S ribosomal protein S2	RPSA
+4V7E	Chain CA	40S ribosomal protein S17E	NO_PERFECT_MATCH_CHECK
+4V7E	Chain C	5'-R(*AP*AP*AP*AP*GP*AP*CP*UP*UP*CP*A)-3'	NO_PERFECT_MATCH_CHECK
+4V7E	Chain DA	40S ribosomal protein S1E	RPS3A
+4V7E	Chain EA	40S ribosomal protein S21E	RPS21
+4V7E	Chain FA	40S ribosomal protein S26E	RPS26
+4V7E	Chain GA	40S ribosomal protein S4	RPS9
+4V7E	Chain HA	40S ribosomal protein S5	RPS2
+4V7E	Chain IA	40S ribosomal protein S6	RPS6
+4V7E	Chain JA	40S ribosomal protein S7E	RPS7
+4V7E	Chain KA	60S ribosomal protein L8E	RPL7A
+4V7E	Chain LA	60S ribosomal protein L21E	RPL21
+4V7E	Chain MA	60S ribosomal protein L27E	RPL27
+4V7E	Chain D	40S ribosomal protein S24E	RPS24
+4V7E	Chain NA	60S ribosomal protein L1	RPL10A
+4V7E	Chain OA	60S ribosomal protein L2	RPL8
+4V7E	Chain PA	60S ribosomal protein L5	RPL11
+4V7E	Chain QA	60S ribosomal protein L6	RPL9
+4V7E	Chain RA	60S ribosomal protein L14	RPL23
+4V7E	Chain SA	60S ribosomal protein L15E	RPL15
+4V7E	Chain TA	60S ribosomal protein L15	RPL27A
+4V7E	Chain UA	60S ribosomal protein L18E	RPL18
+4V7E	Chain VA	60S ribosomal protein L18	RPL5
+4V7E	Chain WA	60S ribosomal protein L19E	RPL19
+4V7E	Chain E	40S ribosomal protein S8E	RPS8
+4V7E	Chain XA	60S ribosomal protein L22	RPL17
+4V7E	Chain YA	60S ribosomal protein L23	NO_PERFECT_MATCH_CHECK
+4V7E	Chain ZA	60S ribosomal protein L24E	RPL24
+4V7E	Chain AB	60S ribosomal protein L24	RPL26
+4V7E	Chain BB	60S ribosomal protein L28E	RPL28
+4V7E	Chain CB	60S ribosomal protein L30E	RPL30
+4V7E	Chain DB	60S ribosomal protein L31E	RPL31
+4V7E	Chain EB	60S ribosomal protein L32E	RPL32
+4V7E	Chain FB	60S ribosomal protein L37E	RPL37
+4V7E	Chain GB	60S ribosomal protein L39E	NO_PERFECT_MATCH_CHECK
+4V7E	Chain F	40S ribosomal protein S10E	RPS10
+4V7E	Chain HB	60S ribosomal protein L44E	RPL36A
+4V7E	Chain IB	60S ribosomal protein L14E	RPL14
+4V7E	Chain JB	60S ribosomal protein L20	RPL18A
+4V7E	Chain KB	60S ribosomal protein L22E	RPL22
+4V7E	Chain LB	60S ribosomal protein L36E	NO_PERFECT_MATCH_CHECK
+4V7E	Chain MB	60S ribosomal protein L11	RPL12
+4V7E	Chains NB	60S ribosomal protein P1	RPLP1
+4V7E	Chains PB	Acidic ribosomal protein P2	RPLP2
+4V7E	Chain RB	60S ribosomal protein L29	NO_PERFECT_MATCH_CHECK
+4V7E	Chain SB	60S ribosomal protein L30	RPL7
+4V7E	Chain G	40S ribosomal protein S12E	RPS12
+4V7E	Chain TB	60S acidic ribosomal protein P0	RPLP0
+4V7E	Chain UB	60S ribosomal protein L3	RPL3
+4V7E	Chain VB	60S ribosomal protein L4	RPL4
+4V7E	Chain WB	60S ribosomal protein L13	RPL13A
+4V7E	Chain XB	60S ribosomal protein L43E	RPL37A
+4V7E	Chain YB	60S ribosomal protein L16	RPL10
+4V7E	Chain ZB	60S ribosomal protein L41E	RPL41
+4V7E	Chain AC	60S ribosomal protein L40E	RPL40
+4V7E	Chain BC	60S ribosomal protein L13E	RPL13
+4V7E	Chain CC	60S ribosomal protein L6E	NO_PERFECT_MATCH_CHECK
+4V7E	Chain H	40S ribosomal protein S31e	RPS27A
+4V7E	Chain DC	60S ribosomal protein L33E	RPL35A
+4V7E	Chain EC	60S ribosomal protein L38E	RPL38
+4V7E	Chain FC	60S ribosomal protein L29E	NO_PERFECT_MATCH_CHECK
+4V7E	Chain GC	60S ribosomal protein L34E	RPL34
+4V7E	Chain HC	60S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+4V7E	Chain IC	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+4V7E	Chain JC	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+4V7E	Chain I	40S ribosomal protein S12	RPS23
+8JDK	Chain A	mRNA	NO_PERFECT_MATCH_CHECK
+8JDK	Chains B, C	tRNA (Asp)	NO_PERFECT_MATCH_CHECK
+8JDK	Chain D	28S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+8JDK	Chain F	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+8JDK	Chain G	60S ribosomal protein L8	RPL8
+8JDK	Chain H	60S ribosomal protein L3	RPL3
+8JDK	Chain I	60S ribosomal protein L4	RPL4
+8JDK	Chain J	60S ribosomal protein L5	RPL5
+8JDK	Chain L	60S ribosomal protein L7	RPL7
+8JDK	Chain M	60S ribosomal protein L7a	RPL7A
+8JDK	Chain N	60S ribosomal protein L9	RPL9
+8JDK	Chain O	60S ribosomal protein L10-like	RPL10
+8JDK	Chain P	60S ribosomal protein L11	RPL11
+8JDK	Chain Q	60S ribosomal protein L13	RPL13
+8JDK	Chain S	60S ribosomal protein L15	RPL15
+8JDK	Chain T	60S ribosomal protein L13a	RPL13A
+8JDK	Chain U	60S ribosomal protein L17	RPL17
+8JDK	Chain V	60S ribosomal protein L18	RPL18
+8JDK	Chain W	60S ribosomal protein L19	RPL19
+8JDK	Chain X	60S ribosomal protein L18a	RPL18A
+8JDK	Chain Y	60S ribosomal protein L21	RPL21
+8JDK	Chain Z	60S ribosomal protein L22	RPL22
+8JDK	Chain AA	60S ribosomal protein L23	RPL23
+8JDK	Chain BA	60S ribosomal protein L24	RPL24
+8JDK	Chain CA	60S ribosomal protein L23a	RPL23A
+8JDK	Chain DA	60S ribosomal protein L26	RPL26
+8JDK	Chain EA	60S ribosomal protein L27	RPL27
+8JDK	Chain FA	60S ribosomal protein L27a	RPL27A
+8JDK	Chain GA	60S ribosomal protein L29	RPL29
+8JDK	Chain HA	60S ribosomal protein L30	RPL30
+8JDK	Chain IA	60S ribosomal protein L31	RPL31
+8JDK	Chain JA	60S ribosomal protein L32	RPL32
+8JDK	Chain KA	60S ribosomal protein L35a	RPL35A
+8JDK	Chain LA	60S ribosomal protein L34	RPL34
+8JDK	Chain MA	60S ribosomal protein L35	RPL35
+8JDK	Chain NA	60S ribosomal protein L36	RPL36
+8JDK	Chain OA	60S ribosomal protein L37	RPL37
+8JDK	Chain PA	60S ribosomal protein L38	RPL38
+8JDK	Chain QA	60S ribosomal protein L39	RPL39
+8JDK	Chain RA	Ubiquitin-60S ribosomal protein L40	RPL40
+8JDK	Chain SA	60S ribosomal protein L41	RPL41
+8JDK	Chain UA	60S ribosomal protein L37a	RPL37A
+8JDK	Chain VA	60S ribosomal protein L28	RPL28
+8JDK	Chain WA	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+8JDK	Chain XA	40S ribosomal protein SA	RPSA
+8JDK	Chain ZA	40S ribosomal protein S2	RPS2
+8JDK	Chain AB	40S ribosomal protein S3	RPS3
+8JDK	Chain CB	40S ribosomal protein S5	RPS5
+8JDK	Chain DB	40S ribosomal protein S6	RPS6
+8JDK	Chain EB	40S ribosomal protein S7	RPS7
+8JDK	Chain FB	40S ribosomal protein S8	RPS8
+8JDK	Chain HB	40S ribosomal protein S10	RPS10
+8JDK	Chain IB	40S ribosomal protein S11	RPS11
+8JDK	Chain JB	40S ribosomal protein S13	RPS13
+8JDK	Chain KB	40S ribosomal protein S14	RPS14
+8JDK	Chain LB	40S ribosomal protein S15	RPS15
+8JDK	Chain MB	40S ribosomal protein S16	RPS16
+8JDK	Chain NB	40S ribosomal protein S17	RPS17
+8JDK	Chain OB	40S ribosomal protein S18	RPS18
+8JDK	Chain PB	40S ribosomal protein S19	RPS19
+8JDK	Chain QB	40S ribosomal protein S20	RPS20
+8JDK	Chain RB	40S ribosomal protein S21	RPS21
+8JDK	Chain SB	40S ribosomal protein S15a	RPS15A
+8JDK	Chain TB	40S ribosomal protein S23	RPS23
+8JDK	Chain UB	40S ribosomal protein S24	RPS24
+8JDK	Chain VB	40S ribosomal protein S25	RPS25
+8JDK	Chain WB	40S ribosomal protein S26	RPS26
+8JDK	Chain YB	40S ribosomal protein S28	RPS28
+8JDK	Chain ZB	40S ribosomal protein S29	RPS29
+8JDK	Chain AC	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+8JDK	Chain BC	Receptor of activated protein C kinase 1	NO_PERFECT_MATCH_CHECK
+8JDK	Chain K	60S ribosomal protein L6	RPL6
+8JDK	Chain R	60S ribosomal protein L14	RPL14
+8JDK	Chain E	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+8JDK	Chain TA	60S ribosomal protein L36a	RPL36A
+8JDK	Chain YA	40S ribosomal protein S3a	RPS3A
+8JDK	Chain BB	40S ribosomal protein S4, X isoform	RPS4
+8JDK	Chain GB	40S ribosomal protein S9	RPS9
+8JDK	Chain XB	40S ribosomal protein S27	RPS27
+6Y2L	Chain A	mRNA	NO_PERFECT_MATCH_CHECK
+6Y2L	Chain B	tRNA	NO_PERFECT_MATCH_CHECK
+6Y2L	Chain C	Nascent polypeptide	NO_PERFECT_MATCH_CHECK
+6Y2L	Chain D	28S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y2L	Chain E	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y2L	Chain F	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y2L	Chain G	60S ribosomal protein L8	RPL8
+6Y2L	Chain H	60S ribosomal protein L3	RPL3
+6Y2L	Chain I	60S ribosomal protein L4	RPL4
+6Y2L	Chain J	60S ribosomal protein L5	RPL5
+6Y2L	Chain K	60S ribosomal protein L6	RPL6
+6Y2L	Chain L	60S ribosomal protein L7	RPL7
+6Y2L	Chain M	60S ribosomal protein L7a	RPL7A
+6Y2L	Chain N	60S ribosomal protein L9	RPL9
+6Y2L	Chain O	60S ribosomal protein L10-like	RPL10
+6Y2L	Chain P	60S ribosomal protein L11	RPL11
+6Y2L	Chain Q	60S ribosomal protein L13	RPL13
+6Y2L	Chain R	60S ribosomal protein L14	RPL14
+6Y2L	Chain S	60S ribosomal protein L15	RPL15
+6Y2L	Chain T	60S ribosomal protein L13a	RPL13A
+6Y2L	Chain U	60S ribosomal protein L17	RPL17
+6Y2L	Chain V	60S ribosomal protein L18	RPL18
+6Y2L	Chain W	60S ribosomal protein L19	RPL19
+6Y2L	Chain X	60S ribosomal protein L18a	RPL18A
+6Y2L	Chain Y	60S ribosomal protein L21	RPL21
+6Y2L	Chain Z	60S ribosomal protein L22	RPL22
+6Y2L	Chain AA	60S ribosomal protein L23	RPL23
+6Y2L	Chain BA	60S ribosomal protein L24	RPL24
+6Y2L	Chain CA	60S ribosomal protein L23a	RPL23A
+6Y2L	Chain DA	60S ribosomal protein L26	RPL26
+6Y2L	Chain EA	60S ribosomal protein L27	RPL27
+6Y2L	Chain FA	60S ribosomal protein L27a	RPL27A
+6Y2L	Chain GA	60S ribosomal protein L29	RPL29
+6Y2L	Chain HA	60S ribosomal protein L30	RPL30
+6Y2L	Chain IA	60S ribosomal protein L31	RPL31
+6Y2L	Chain JA	60S ribosomal protein L32	RPL32
+6Y2L	Chain KA	60S ribosomal protein L35a	RPL35A
+6Y2L	Chain LA	60S ribosomal protein L34	RPL34
+6Y2L	Chain MA	60S ribosomal protein L35	RPL35
+6Y2L	Chain NA	60S ribosomal protein L36	RPL36
+6Y2L	Chain OA	60S ribosomal protein L37	RPL37
+6Y2L	Chain PA	60S ribosomal protein L38	RPL38
+6Y2L	Chain QA	60S ribosomal protein L39	RPL39
+6Y2L	Chain RA	Ubiquitin-60S ribosomal protein L40	RPL40
+6Y2L	Chain SA	60S ribosomal protein L41	RPL41
+6Y2L	Chain TA	60S ribosomal protein L36a	RPL36A
+6Y2L	Chain UA	60S ribosomal protein L37a	RPL37A
+6Y2L	Chain VA	60S ribosomal protein L28	RPL28
+6Y2L	Chain WA	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y2L	Chain XA	40S ribosomal protein SA	RPSA
+6Y2L	Chain YA	40S ribosomal protein S3a	RPS3A
+6Y2L	Chain ZA	40S ribosomal protein S2	RPS2
+6Y2L	Chain AB	40S ribosomal protein S3	RPS3
+6Y2L	Chain BB	40S ribosomal protein S4, X isoform	RPS4
+6Y2L	Chain CB	40S ribosomal protein S5	RPS5
+6Y2L	Chain DB	40S ribosomal protein S6	RPS6
+6Y2L	Chain EB	40S ribosomal protein S7	RPS7
+6Y2L	Chain FB	40S ribosomal protein S8	RPS8
+6Y2L	Chain GB	40S ribosomal protein S9	RPS9
+6Y2L	Chain HB	40S ribosomal protein S10	RPS10
+6Y2L	Chain IB	40S ribosomal protein S11	RPS11
+6Y2L	Chain JB	40S ribosomal protein S13	RPS13
+6Y2L	Chain KB	40S ribosomal protein S14	RPS14
+6Y2L	Chain LB	40S ribosomal protein S15	RPS15
+6Y2L	Chain MB	40S ribosomal protein S16	RPS16
+6Y2L	Chain NB	40S ribosomal protein S17	RPS17
+6Y2L	Chain OB	40S ribosomal protein S18	RPS18
+6Y2L	Chain PB	40S ribosomal protein S19	RPS19
+6Y2L	Chain QB	40S ribosomal protein S20	RPS20
+6Y2L	Chain RB	40S ribosomal protein S21	RPS21
+6Y2L	Chain SB	40S ribosomal protein S15a	RPS15A
+6Y2L	Chain TB	40S ribosomal protein S23	RPS23
+6Y2L	Chain UB	40S ribosomal protein S24	RPS24
+6Y2L	Chain VB	40S ribosomal protein S25	RPS25
+6Y2L	Chain WB	40S ribosomal protein S26	RPS26
+6Y2L	Chain XB	40S ribosomal protein S27	RPS27
+6Y2L	Chain YB	40S ribosomal protein S28	RPS28
+6Y2L	Chain ZB	40S ribosomal protein S29	RPS29
+6Y2L	Chain AC	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+6Y2L	Chain BC	Receptor of activated protein C kinase 1	NO_PERFECT_MATCH_CHECK
+6XU8	Chain A	60S ribosomal protein L13a	RPL13A
+6XU8	Chain B	60S ribosomal protein L13	RPL13
+6XU8	Chain C	60S ribosomal protein L23	RPL23
+6XU8	Chain D	60S ribosomal protein L14	RPL14
+6XU8	Chain E	60S ribosomal protein L27a	RPL27A
+6XU8	Chain F	60S ribosomal protein L15	RPL15
+6XU8	Chain G	60S ribosomal protein L10	RPL10
+6XU8	Chain H	60S ribosomal protein L5	RPL5
+6XU8	Chain I	60S ribosomal protein L18	RPL18
+6XU8	Chain J	60S ribosomal protein L19	RPL19
+6XU8	Chain K	60S ribosomal protein L8	RPL8
+6XU8	Chain L	60S ribosomal protein L18a	RPL18A
+6XU8	Chain M	RE62581p	RPL21
+6XU8	Chain N	60S ribosomal protein L17	RPL17
+6XU8	Chain O	IP17216p	NO_PERFECT_MATCH_CHECK
+6XU8	Chain P	GEO07453p1	NO_PERFECT_MATCH_CHECK
+6XU8	Chain Q	60S ribosomal protein L27	NO_PERFECT_MATCH_CHECK
+6XU8	Chain R	60S ribosomal protein L28	NO_PERFECT_MATCH_CHECK
+6XU8	Chain S	FI02809p	RPL35
+6XU8	Chain T	60S ribosomal protein L29	NO_PERFECT_MATCH_CHECK
+6XU8	Chain U	60S ribosomal protein L3	RPL3
+6XU8	Chain V	60S ribosomal protein L7	RPL7
+6XU8	Chain W	RE25263p	RPL30
+6XU8	Chain X	60S ribosomal protein L32	RPL32
+6XU8	Chain Y	GEO07455p1	RPL35A
+6XU8	Chain Z	60S ribosomal protein L36	NO_PERFECT_MATCH_CHECK
+6XU8	Chain AA	60S ribosomal protein L38	RPL38
+6XU8	Chain BA	60S ribosomal protein L39	NO_PERFECT_MATCH_CHECK
+6XU8	Chain CA	60S ribosomal protein L4	RPL4
+6XU8	Chain DA	Ubiquitin-60S ribosomal protein L40	RPL40
+6XU8	Chain EA	60S ribosomal protein L41	RPL41
+6XU8	Chain FA	60S ribosomal protein L37a	RPL37A
+6XU8	Chain GA	TA01007p	RPL36A
+6XU8	Chain HA	60S ribosomal protein L11	RPL11
+6XU8	Chain IA	60S ribosomal protein L9	RPL9
+6XU8	Chain JA	Ribosomal protein L6, isoform A	RPL6
+6XU8	Chain KA	60S ribosomal protein L7a	RPL7A
+6XU8	Chain LA	2S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU8	Chain MA	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU8	Chain NA	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU8	Chain OA	Guanine nucleotide-binding protein subunit beta-like protein	NO_PERFECT_MATCH_CHECK
+6XU8	Chain PA	40S ribosomal protein S20	RPS20
+6XU8	Chain QA	40S ribosomal protein S14a	RPS14
+6XU8	Chain RA	40S ribosomal protein S23	RPS23
+6XU8	Chain SA	40S ribosomal protein S12	RPS12
+6XU8	Chain TA	40S ribosomal protein S29	RPS29
+6XU8	Chain UA	40S ribosomal protein S13	NO_PERFECT_MATCH_CHECK
+6XU8	Chain VA	40S ribosomal protein S11	RPS11
+6XU8	Chain WA	40S ribosomal protein S17	RPS17
+6XU8	Chain XA	GEO07301p1	NO_PERFECT_MATCH_CHECK
+6XU8	Chain YA	40S ribosomal protein S3a	RPS3A
+6XU8	Chain ZA	40S ribosomal protein SA	RPSA
+6XU8	Chain AB	40S ribosomal protein S21	RPS21
+6XU8	Chain BB	40S ribosomal protein S24	RPS24
+6XU8	Chain CB	40S ribosomal protein S25	NO_PERFECT_MATCH_CHECK
+6XU8	Chain DB	40S ribosomal protein S26	RPS26
+6XU8	Chain EB	40S ribosomal protein S27	RPS27
+6XU8	Chain FB	40S ribosomal protein S3	RPS3
+6XU8	Chain GB	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+6XU8	Chain HB	Ubiquitin-40S ribosomal protein S27a	RPS27A
+6XU8	Chain IB	40S ribosomal protein S9	NO_PERFECT_MATCH_CHECK
+6XU8	Chain JB	40S ribosomal protein S4	RPS4
+6XU8	Chain KB	40S ribosomal protein S2	RPS2
+6XU8	Chain LB	40S ribosomal protein S6	RPS6
+6XU8	Chain MB	40S ribosomal protein S7	RPS7
+6XU8	Chain NB	40S ribosomal protein S8	RPS8
+6XU8	Chain OB	40S ribosomal protein S16	RPS16
+6XU8	Chain PB	60S ribosomal protein L10a-2	RPL10A
+6XU8	Chain QB	28S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU8	Chain RB	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU8	Chain SB	40S ribosomal protein S15Aa	RPS15A
+6XU8	Chain TB	40S ribosomal protein S19a	RPS19
+6XU8	Chain UB	40S ribosomal protein S10b	NO_PERFECT_MATCH_CHECK
+6XU8	Chain VB	40S ribosomal protein S5b	RPS5
+6XU8	Chain WB	40S ribosomal protein S28	RPS28
+6XU8	Chain XB	60S ribosomal protein L22	RPL22
+6XU8	Chain YB	Probable 60S ribosomal protein L37-A	RPL37
+6XU8	Chain ZB	60S ribosomal protein L24	RPL24
+6XU8	Chain AC	60S ribosomal protein L34	RPL34
+6XU8	Chain BC	60S ribosomal protein L31	RPL31
+6XU8	Chain CC	40S ribosomal protein S18	RPS18
+6XU6	Chain A	40S ribosomal protein SA	RPSA
+6XU6	Chain B	60S ribosomal protein L8	RPL8
+6XU6	Chain C	40S ribosomal protein S3a	RPS3A
+6XU6	Chain D	60S ribosomal protein L3	RPL3
+6XU6	Chain E	40S ribosomal protein S2	RPS2
+6XU6	Chain F	60S ribosomal protein L4	RPL4
+6XU6	Chain G	Guanine nucleotide-binding protein subunit beta-like protein	NO_PERFECT_MATCH_CHECK
+6XU6	Chain H	40S ribosomal protein S20	RPS20
+6XU6	Chain I	40S ribosomal protein S23	RPS23
+6XU6	Chain J	40S ribosomal protein S12	RPS12
+6XU6	Chain K	40S ribosomal protein S29	RPS29
+6XU6	Chain L	40S ribosomal protein S13	NO_PERFECT_MATCH_CHECK
+6XU6	Chain M	40S ribosomal protein S11	RPS11
+6XU6	Chain N	40S ribosomal protein S17	RPS17
+6XU6	Chain O	GEO07301p1	NO_PERFECT_MATCH_CHECK
+6XU6	Chain P	40S ribosomal protein S21	RPS21
+6XU6	Chain Q	40S ribosomal protein S24	RPS24
+6XU6	Chain R	40S ribosomal protein S25	NO_PERFECT_MATCH_CHECK
+6XU6	Chain S	40S ribosomal protein S26	RPS26
+6XU6	Chain T	40S ribosomal protein S27	RPS27
+6XU6	Chain U	40S ribosomal protein S3	RPS3
+6XU6	Chain V	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+6XU6	Chain W	Ubiquitin-40S ribosomal protein S27a	RPS27A
+6XU6	Chain X	40S ribosomal protein S9	NO_PERFECT_MATCH_CHECK
+6XU6	Chain Y	60S ribosomal protein L27a	RPL27A
+6XU6	Chain Z	60S ribosomal protein L15	RPL15
+6XU6	Chain AA	60S ribosomal protein L10	RPL10
+6XU6	Chain BA	60S ribosomal protein L5	RPL5
+6XU6	Chain CA	60S ribosomal protein L18	RPL18
+6XU6	Chain DA	60S ribosomal protein L19	RPL19
+6XU6	Chain EA	60S ribosomal protein L18a	RPL18A
+6XU6	Chain FA	RE62581p	RPL21
+6XU6	Chain GA	60S ribosomal protein L17	RPL17
+6XU6	Chain HA	IP17216p	NO_PERFECT_MATCH_CHECK
+6XU6	Chain IA	GEO07453p1	NO_PERFECT_MATCH_CHECK
+6XU6	Chain JA	60S ribosomal protein L27	NO_PERFECT_MATCH_CHECK
+6XU6	Chain KA	60S ribosomal protein L28	NO_PERFECT_MATCH_CHECK
+6XU6	Chain LA	FI02809p	RPL35
+6XU6	Chain MA	60S ribosomal protein L29	NO_PERFECT_MATCH_CHECK
+6XU6	Chain NA	RE25263p	RPL30
+6XU6	Chain OA	60S ribosomal protein L32	RPL32
+6XU6	Chain PA	GEO07455p1	RPL35A
+6XU6	Chain QA	60S ribosomal protein L36	NO_PERFECT_MATCH_CHECK
+6XU6	Chain RA	60S ribosomal protein L38	RPL38
+6XU6	Chain SA	60S ribosomal protein L39	NO_PERFECT_MATCH_CHECK
+6XU6	Chain TA	Ubiquitin-60S ribosomal protein L40	RPL40
+6XU6	Chain UA	60S ribosomal protein L41	RPL41
+6XU6	Chain VA	60S ribosomal protein L37a	RPL37A
+6XU6	Chain WA	TA01007p	RPL36A
+6XU6	Chain XA	60S ribosomal protein L11	RPL11
+6XU6	Chain YA	60S ribosomal protein L9	RPL9
+6XU6	Chain ZA	Ribosomal protein L6, isoform A	RPL6
+6XU6	Chain AB	60S ribosomal protein L7a	RPL7A
+6XU6	Chain BB	2S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU6	Chain CB	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU6	Chain DB	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU6	Chain EB	60S ribosomal protein L10a-2	RPL10A
+6XU6	Chain FB	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU6	Chain GB	28S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU6	Chain HB	40S ribosomal protein S4	RPS4
+6XU6	Chain IB	40S ribosomal protein S6	RPS6
+6XU6	Chain JB	40S ribosomal protein S7	RPS7
+6XU6	Chain KB	40S ribosomal protein S8	RPS8
+6XU6	Chain LB	40S ribosomal protein S16	RPS16
+6XU6	Chain MB	60S ribosomal protein L13a	RPL13A
+6XU6	Chain NB	60S ribosomal protein L13	RPL13
+6XU6	Chain OB	60S ribosomal protein L23	RPL23
+6XU6	Chain PB	60S ribosomal protein L14	RPL14
+6XU6	Chain QB	LP04564p	NO_PERFECT_MATCH_CHECK
+6XU6	Chain RB	40S ribosomal protein S10b	NO_PERFECT_MATCH_CHECK
+6XU6	Chain SB	40S ribosomal protein S19a	RPS19
+6XU6	Chain TB	40S ribosomal protein S5a	RPS5
+6XU6	Chain UB	40S ribosomal protein S14a	RPS14
+6XU6	Chain VB	40S ribosomal protein S28	RPS28
+6XU6	Chain WB	40S ribosomal protein S15Aa	RPS15A
+6XU6	Chain XB	60S ribosomal protein L24	RPL24
+6XU6	Chain YB	RH48056p	RPL34
+6XU6	Chain ZB	Ribosomal protein L22-like protein	RPL22
+6XU6	Chain AC	Probable 60S ribosomal protein L37-B	RPL37
+6XU6	Chain BC	60S ribosomal protein L7	RPL7
+6XU6	Chain CC	60S ribosomal protein L31	RPL31
+6XU6	Chain DC	40S ribosomal protein S18	RPS18
+8SCB	Chain A	Ribosomal protein L8	RPL8
+8SCB	Chain B	Ribosomal protein L3	RPL3
+8SCB	Chain C	60S ribosomal protein L4	RPL4
+8SCB	Chain D	Ribosomal_L18_c domain-containing protein	RPL5
+8SCB	Chain E	60S ribosomal protein L6	RPL6
+8SCB	Chain F	60S ribosomal protein L7	RPL7
+8SCB	Chain G	60S ribosomal protein L7a	RPL7A
+8SCB	Chain H	60S ribosomal protein L9	RPL9
+8SCB	Chain I	60S ribosomal protein L10	RPL10
+8SCB	Chain J	60S ribosomal protein L11	RPL11
+8SCB	Chain K	eL13	RPL13
+8SCB	Chain L	60S ribosomal protein L14	RPL14
+8SCB	Chain M	Ribosomal protein L15	RPL15
+8SCB	Chain N	uL13	RPL13A
+8SCB	Chain P	Ribosomal protein L18	RPL18
+8SCB	Chain Q	Ribosomal protein L19	RPL19
+8SCB	Chain R	eL20	RPL18A
+8SCB	Chain S	eL21	RPL21
+8SCB	Chain T	eL22	RPL22
+8SCB	Chain U	Ribosomal protein L23	RPL23
+8SCB	Chain W	eL23	NO_PERFECT_MATCH_CHECK
+8SCB	Chain X	uL24	RPL26
+8SCB	Chain Z	60S ribosomal protein L27a	RPL27A
+8SCB	Chain AA	60S ribosomal protein L29	NO_PERFECT_MATCH_CHECK
+8SCB	Chain BA	eL30	RPL30
+8SCB	Chain CA	eL31	RPL31
+8SCB	Chain DA	eL32	RPL32
+8SCB	Chain EA	eL33	RPL35A
+8SCB	Chain FA	60S ribosomal protein L34	RPL34
+8SCB	Chain GA	eL35	NO_PERFECT_MATCH_CHECK
+8SCB	Chain HA	60S ribosomal protein L36	RPL36
+8SCB	Chain IA	Ribosomal protein L37	RPL37
+8SCB	Chain JA	60S ribosomal protein L38	RPL38
+8SCB	Chain KA	eL39	NO_PERFECT_MATCH_CHECK
+8SCB	Chain LA	Ubiquitin A-52 residue ribosomal protein fusion product 1	NO_PERFECT_MATCH_CHECK
+8SCB	Chain MA	eL41	RPL41
+8SCB	Chain NA	eL42	RPL36A
+8SCB	Chain OA	eL43	RPL37A
+8SCB	Chain PA	eL28	RPL28
+8SCB	Chain QA	60S acidic ribosomal protein P0	RPLP0
+8SCB	Chain RA	60S ribosomal protein L12	RPL12
+8SCB	Chain SA	NC	NO_PERFECT_MATCH_CHECK
+8SCB	Chain TA	P_tRNA	NO_PERFECT_MATCH_CHECK
+8SCB	Chain UA	E_tRNA	NO_PERFECT_MATCH_CHECK
+8SCB	Chain VA	28S_rRNA	NO_PERFECT_MATCH_CHECK
+8SCB	Chain WA	5S_rRNA	NO_PERFECT_MATCH_CHECK
+8SCB	Chain XA	5.8S_rRNA	NO_PERFECT_MATCH_CHECK
+8SCB	Chain YA	18S_rRNA	NO_PERFECT_MATCH_CHECK
+8SCB	Chain ZA	uS2 (SA)	RPSA
+8SCB	Chain AB	eS1	RPS3A
+8SCB	Chain BB	uS5	RPS2
+8SCB	Chain CB	Ribosomal protein S3	RPS3
+8SCB	Chain DB	eS4 (S4 X isoform)	RPS4
+8SCB	Chain EB	uS7	RPS5
+8SCB	Chain FB	eS6	RPS6
+8SCB	Chain GB	eS7	RPS7
+8SCB	Chain HB	eS8	RPS8
+8SCB	Chain IB	uS4	RPS9
+8SCB	Chain JB	S10_plectin domain-containing protein	RPS10
+8SCB	Chain KB	uS17	RPS11
+8SCB	Chain LB	eS12	RPS12
+8SCB	Chain NB	uS11	RPS14
+8SCB	Chain OB	uS19	NO_PERFECT_MATCH_CHECK
+8SCB	Chain PB	uS9	RPS16
+8SCB	Chain QB	eS17	RPS17
+8SCB	Chain RB	uS13	RPS18
+8SCB	Chain SB	eS19	NO_PERFECT_MATCH_CHECK
+8SCB	Chain TB	uS10	RPS20
+8SCB	Chain UB	eS21	RPS21
+8SCB	Chain VB	uS8	RPS15A
+8SCB	Chain WB	uS12	RPS23
+8SCB	Chain XB	40S ribosomal protein S24	RPS24
+8SCB	Chain YB	eS25	RPS25
+8SCB	Chain ZB	40S ribosomal protein S26	RPS26
+8SCB	Chain AC	eS27	RPS27
+8SCB	Chain BC	eS28	RPS28
+8SCB	Chain CC	uS14	RPS29
+8SCB	Chain DC	eS30	RPS30
+8SCB	Chain EC	eS31	RPL40
+8SCB	Chain GC	mRNA	NO_PERFECT_MATCH_CHECK
+8SCB	Chain HC	Eukaryotic peptide chain release factor subunit 1	NO_PERFECT_MATCH_CHECK
+8SCB	Chain IC	ATP binding cassette subfamily E member 1	NO_PERFECT_MATCH_CHECK
+8SCB	Chain O	uL22	RPL17
+8SCB	Chain V	60S ribosomal protein L24	RPL24
+8SCB	Chain Y	60S ribosomal protein L27	RPL27
+8SCB	Chain MB	uS15	RPS13
+8SCB	Chain FC	Receptor for Activated C Kinase 1 (RACK1)	NO_PERFECT_MATCH_CHECK
+6Y57	Chain A	mRNA	NO_PERFECT_MATCH_CHECK
+6Y57	Chain B	P/E tRNA	NO_PERFECT_MATCH_CHECK
+6Y57	Chain C	A/P tRNA	NO_PERFECT_MATCH_CHECK
+6Y57	Chain D	28S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y57	Chain E	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y57	Chain F	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y57	Chain G	60S ribosomal protein L8	RPL8
+6Y57	Chain H	60S ribosomal protein L3	RPL3
+6Y57	Chain I	60S ribosomal protein L4	RPL4
+6Y57	Chain J	60S ribosomal protein L5	RPL5
+6Y57	Chain K	60S ribosomal protein L6	RPL6
+6Y57	Chain L	60S ribosomal protein L7	RPL7
+6Y57	Chain M	60S ribosomal protein L7a	RPL7A
+6Y57	Chain N	60S ribosomal protein L9	RPL9
+6Y57	Chain O	60S ribosomal protein L10-like	RPL10
+6Y57	Chain P	60S ribosomal protein L11	RPL11
+6Y57	Chain Q	60S ribosomal protein L13	RPL13
+6Y57	Chain R	60S ribosomal protein L14	RPL14
+6Y57	Chain S	60S ribosomal protein L15	RPL15
+6Y57	Chain T	60S ribosomal protein L13a	RPL13A
+6Y57	Chain U	60S ribosomal protein L17	RPL17
+6Y57	Chain V	60S ribosomal protein L18	RPL18
+6Y57	Chain W	60S ribosomal protein L19	RPL19
+6Y57	Chain X	60S ribosomal protein L18a	RPL18A
+6Y57	Chain Y	60S ribosomal protein L21	RPL21
+6Y57	Chain Z	60S ribosomal protein L22	RPL22
+6Y57	Chain AA	60S ribosomal protein L23	RPL23
+6Y57	Chain BA	60S ribosomal protein L24	RPL24
+6Y57	Chain CA	60S ribosomal protein L23a	RPL23A
+6Y57	Chain DA	60S ribosomal protein L26	RPL26
+6Y57	Chain EA	60S ribosomal protein L27	RPL27
+6Y57	Chain FA	60S ribosomal protein L27a	RPL27A
+6Y57	Chain GA	60S ribosomal protein L29	RPL29
+6Y57	Chain HA	60S ribosomal protein L30	RPL30
+6Y57	Chain IA	60S ribosomal protein L31	RPL31
+6Y57	Chain JA	60S ribosomal protein L32	RPL32
+6Y57	Chain KA	60S ribosomal protein L35a	RPL35A
+6Y57	Chain LA	60S ribosomal protein L34	RPL34
+6Y57	Chain MA	60S ribosomal protein L35	RPL35
+6Y57	Chain NA	60S ribosomal protein L36	RPL36
+6Y57	Chain OA	60S ribosomal protein L37	RPL37
+6Y57	Chain PA	60S ribosomal protein L38	RPL38
+6Y57	Chain QA	60S ribosomal protein L39	RPL39
+6Y57	Chain RA	Ubiquitin-60S ribosomal protein L40	RPL40
+6Y57	Chain SA	60S ribosomal protein L41	RPL41
+6Y57	Chain TA	60S ribosomal protein L36a	RPL36A
+6Y57	Chain UA	60S ribosomal protein L37a	RPL37A
+6Y57	Chain VA	60S ribosomal protein L28	RPL28
+6Y57	Chain WA	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y57	Chain XA	40S ribosomal protein SA	RPSA
+6Y57	Chain YA	40S ribosomal protein S3a	RPS3A
+6Y57	Chain ZA	40S ribosomal protein S2	RPS2
+6Y57	Chain AB	40S ribosomal protein S3	RPS3
+6Y57	Chain BB	40S ribosomal protein S4, X isoform	RPS4
+6Y57	Chain CB	40S ribosomal protein S5	RPS5
+6Y57	Chain DB	40S ribosomal protein S6	RPS6
+6Y57	Chain EB	40S ribosomal protein S7	RPS7
+6Y57	Chain FB	40S ribosomal protein S8	RPS8
+6Y57	Chain GB	40S ribosomal protein S9	RPS9
+6Y57	Chain HB	40S ribosomal protein S10	RPS10
+6Y57	Chain IB	40S ribosomal protein S11	RPS11
+6Y57	Chain JB	40S ribosomal protein S13	RPS13
+6Y57	Chain KB	40S ribosomal protein S14	RPS14
+6Y57	Chain LB	40S ribosomal protein S15	RPS15
+6Y57	Chain MB	40S ribosomal protein S16	RPS16
+6Y57	Chain NB	40S ribosomal protein S17	RPS17
+6Y57	Chain OB	40S ribosomal protein S18	RPS18
+6Y57	Chain PB	40S ribosomal protein S19	RPS19
+6Y57	Chain QB	40S ribosomal protein S20	RPS20
+6Y57	Chain RB	40S ribosomal protein S21	RPS21
+6Y57	Chain SB	40S ribosomal protein S15a	RPS15A
+6Y57	Chain TB	40S ribosomal protein S23	RPS23
+6Y57	Chain UB	40S ribosomal protein S24	RPS24
+6Y57	Chain VB	40S ribosomal protein S25	RPS25
+6Y57	Chain WB	40S ribosomal protein S26	RPS26
+6Y57	Chain XB	40S ribosomal protein S27	RPS27
+6Y57	Chain YB	40S ribosomal protein S28	RPS28
+6Y57	Chain ZB	40S ribosomal protein S29	RPS29
+6Y57	Chain AC	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+6Y57	Chain BC	40S ribosomal protein S12	RPS12
+6Y57	Chain CC	Receptor of activated protein C kinase 1	NO_PERFECT_MATCH_CHECK
+6Y57	Chain DC	Ubiquitin-40S ribosomal protein S27a	RPL40
+7XNY	Chain B	5S rRNA	NO_PERFECT_MATCH_CHECK
+7XNY	Chain C	5.8S rRNA	NO_PERFECT_MATCH_CHECK
+7XNY	Chain D	60S ribosomal protein L8	RPL8
+7XNY	Chain F	60S ribosomal protein L4	RPL4
+7XNY	Chain G	60S ribosomal protein L5	RPL5
+7XNY	Chain H	60S ribosomal protein L6	RPL6
+7XNY	Chain J	60S ribosomal protein L7a	RPL7A
+7XNY	Chain K	60S ribosomal protein L9	RPL9
+7XNY	Chain L	Ribosomal protein L10 isoform A	RPL10
+7XNY	Chain M	60S ribosomal protein L11	RPL11
+7XNY	Chain O	60S ribosomal protein L14	RPL14
+7XNY	Chain R	60S ribosomal protein L17	RPL17
+7XNY	Chain S	60S ribosomal protein L18	RPL18
+7XNY	Chain T	60S ribosomal protein L19	RPL19
+7XNY	Chain U	60S ribosomal protein L18a	RPL18A
+7XNY	Chain V	60S ribosomal protein L21	RPL21
+7XNY	Chain Y	60S ribosomal protein L24	RPL24
+7XNY	Chain Z	60S ribosomal protein L23a	RPL23A
+7XNY	Chain AA	60S ribosomal protein L26	RPL26
+7XNY	Chain BA	60S ribosomal protein L27	NO_PERFECT_MATCH_CHECK
+7XNY	Chain CA	60S ribosomal protein L27a	RPL27A
+7XNY	Chain DA	60S ribosomal protein L29	RPL29
+7XNY	Chain GA	60S ribosomal protein L32	RPL32
+7XNY	Chain JA	60S ribosomal protein L35	RPL35
+7XNY	Chain KA	60S ribosomal protein L36	RPL36
+7XNY	Chain LA	60S ribosomal protein L37	RPL37
+7XNY	Chain MA	60S ribosomal protein L38	RPL38
+7XNY	Chain NA	60S ribosomal protein L39	RPL39
+7XNY	Chain OA	Ubiquitin-60S ribosomal protein L40	RPL40
+7XNY	Chain PA	60S ribosomal protein L41	RPL41
+7XNY	Chain SA	60S ribosomal protein L28	RPL28
+7XNY	Chain UA	40S ribosomal protein SA	RPSA
+7XNY	Chain WA	40S ribosomal protein S3	RPS3
+7XNY	Chain XA	40S ribosomal protein S4, X isoform	RPS4
+7XNY	Chain YA	40S ribosomal protein S5	RPS5
+7XNY	Chain ZA	40S ribosomal protein S7	RPS7
+7XNY	Chain AB	40S ribosomal protein S8	RPS8
+7XNY	Chain BB	40S ribosomal protein S10	RPS10
+7XNY	Chain CB	40S ribosomal protein S11	RPS11
+7XNY	Chain EB	40S ribosomal protein S16	RPS16
+7XNY	Chain FB	40S ribosomal protein S17	RPS17
+7XNY	Chain GB	40S ribosomal protein S18	RPS18
+7XNY	Chain HB	40S ribosomal protein S19	RPS19
+7XNY	Chain JB	40S ribosomal protein S21	RPS21
+7XNY	Chain LB	40S ribosomal protein S26	RPS26
+7XNY	Chain MB	40S ribosomal protein S28	RPS28
+7XNY	Chain NB	40S ribosomal protein S29	RPS29
+7XNY	Chain OB	Receptor of activated protein C kinase 1	NO_PERFECT_MATCH_CHECK
+7XNY	Chain PB	40S ribosomal protein S2	RPS2
+7XNY	Chain QB	40S ribosomal protein S6	RPS6
+7XNY	Chain RB	40S ribosomal protein S9	RPS9
+7XNY	Chain SB	40S ribosomal protein S12	RPS12
+7XNY	Chain TB	40S ribosomal protein S13	RPS13
+7XNY	Chain UB	40S ribosomal protein S14	RPS14
+7XNY	Chain VB	40S ribosomal protein S15a	RPS15A
+7XNY	Chain WB	40S ribosomal protein S24	RPS24
+7XNY	Chain XB	40S ribosomal protein S25	RPS25
+7XNY	Chain YB	40S ribosomal protein S27	RPS27
+7XNY	Chain ZB	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+7XNY	Chain AC	Ubiquitin-40S ribosomal protein S27a	RPL40
+7XNY	Chain A	28S rRNA	NO_PERFECT_MATCH_CHECK
+7XNY	Chain N	60S ribosomal protein L13	RPL13
+7XNY	Chain P	60S ribosomal protein L15	RPL15
+7XNY	Chain Q	60S ribosomal protein L13a	RPL13A
+7XNY	Chain W	60S ribosomal protein L22	RPL22
+7XNY	Chain X	60S ribosomal protein L23	RPL23
+7XNY	Chain EA	60S ribosomal protein L30	RPL30
+7XNY	Chain FA	60S ribosomal protein L31	RPL31
+7XNY	Chain HA	60S ribosomal protein L35a	RPL35A
+7XNY	Chain IA	60S ribosomal protein L34	RPL34
+7XNY	Chain QA	60S ribosomal protein L36a	RPL36A
+7XNY	Chain RA	60S ribosomal protein L37a	RPL37A
+7XNY	Chain TA	18S rRNA	NO_PERFECT_MATCH_CHECK
+7XNY	Chain VA	40S ribosomal protein S3a	RPS3A
+7XNY	Chain E	60S ribosomal protein L3	RPL3
+7XNY	Chain DB	40S ribosomal protein S15	RPS15
+7XNY	Chain IB	40S ribosomal protein S20	RPS20
+7XNY	Chain KB	40S ribosomal protein S23	RPS23
+7XNY	Chain I	60S ribosomal protein L7	RPL7
+6XU7	Chain A	40S ribosomal protein SA	RPSA
+6XU7	Chain J	40S ribosomal protein S23	RPS23
+6XU7	Chain K	40S ribosomal protein S12	RPS12
+6XU7	Chain L	40S ribosomal protein S18	RPS18
+6XU7	Chain M	40S ribosomal protein S29	RPS29
+6XU7	Chain N	40S ribosomal protein S13	NO_PERFECT_MATCH_CHECK
+6XU7	Chain O	40S ribosomal protein S11	RPS11
+6XU7	Chain P	40S ribosomal protein S17	RPS29
+6XU7	Chain Q	GEO07301p1	NO_PERFECT_MATCH_CHECK
+6XU7	Chain R	40S ribosomal protein S21	RPS21
+6XU7	Chain S	40S ribosomal protein S24	RPS24
+6XU7	Chain B	60S ribosomal protein L8	RPL8
+6XU7	Chain T	40S ribosomal protein S25	NO_PERFECT_MATCH_CHECK
+6XU7	Chain U	40S ribosomal protein S26	RPS26
+6XU7	Chain V	40S ribosomal protein S27	RPS27
+6XU7	Chain W	40S ribosomal protein S3	RPS3
+6XU7	Chain X	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+6XU7	Chain Y	Ubiquitin-40S ribosomal protein S27a	RPS27A
+6XU7	Chain Z	40S ribosomal protein S9	NO_PERFECT_MATCH_CHECK
+6XU7	Chain AA	60S ribosomal protein L27a	RPL27A
+6XU7	Chain BA	60S ribosomal protein L15	RPL15
+6XU7	Chain CA	60S ribosomal protein L10	RPL10
+6XU7	Chain C	40S ribosomal protein S3a	RPS3A
+6XU7	Chain DA	60S ribosomal protein L5	RPL5
+6XU7	Chain EA	60S ribosomal protein L18	RPL18
+6XU7	Chain FA	60S ribosomal protein L19	RPL19
+6XU7	Chain GA	60S ribosomal protein L18a	RPL18A
+6XU7	Chain HA	RE62581p	RPL21
+6XU7	Chain IA	60S ribosomal protein L17	RPL17
+6XU7	Chain JA	IP17216p	NO_PERFECT_MATCH_CHECK
+6XU7	Chain KA	GEO07453p1	NO_PERFECT_MATCH_CHECK
+6XU7	Chain LA	60S ribosomal protein L27	NO_PERFECT_MATCH_CHECK
+6XU7	Chain MA	60S ribosomal protein L28	NO_PERFECT_MATCH_CHECK
+6XU7	Chain D	60S ribosomal protein L3	RPL3
+6XU7	Chain NA	FI02809p	RPL35
+6XU7	Chain OA	60S ribosomal protein L29	NO_PERFECT_MATCH_CHECK
+6XU7	Chain PA	RE25263p	RPL30
+6XU7	Chain QA	60S ribosomal protein L31	RPL31
+6XU7	Chain RA	60S ribosomal protein L32	RPL32
+6XU7	Chain SA	GEO07455p1	RPL35A
+6XU7	Chain TA	60S ribosomal protein L36	NO_PERFECT_MATCH_CHECK
+6XU7	Chain UA	60S ribosomal protein L38	RPL38
+6XU7	Chain VA	60S ribosomal protein L39	NO_PERFECT_MATCH_CHECK
+6XU7	Chain WA	Ubiquitin-60S ribosomal protein L40	RPL40
+6XU7	Chain E	40S ribosomal protein S2	RPS2
+6XU7	Chain XA	60S ribosomal protein L41	RPL41
+6XU7	Chain YA	60S ribosomal protein L37a	RPL37A
+6XU7	Chain ZA	TA01007p	RPL36A
+6XU7	Chain AB	60S ribosomal protein L11	RPL11
+6XU7	Chain BB	60S ribosomal protein L9	RPL9
+6XU7	Chain CB	Ribosomal protein L6, isoform A	RPL6
+6XU7	Chain DB	60S ribosomal protein L7a	RPL7A
+6XU7	Chain EB	2S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU7	Chain FB	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU7	Chain GB	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU7	Chain F	60S ribosomal protein L4	RPL4
+6XU7	Chain HB	60S ribosomal protein L10a-2	RPL10A
+6XU7	Chain IB	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU7	Chain JB	28S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6XU7	Chain KB	40S ribosomal protein S28	RPS28
+6XU7	Chain LB	40S ribosomal protein S15Aa	RPS15A
+6XU7	Chain MB	60S ribosomal protein L24	RPL24
+6XU7	Chain NB	RH48056p	RPL34
+6XU7	Chain OB	Ribosomal protein L22-like protein	RPL22
+6XU7	Chain PB	40S ribosomal protein S10b	NO_PERFECT_MATCH_CHECK
+6XU7	Chain QB	40S ribosomal protein S19a	RPS19
+6XU7	Chain G	Guanine nucleotide-binding protein subunit beta-like protein	NO_PERFECT_MATCH_CHECK
+6XU7	Chain RB	40S ribosomal protein S5a	RPS5
+6XU7	Chain SB	60S ribosomal protein L7	RPL7
+6XU7	Chain TB	40S ribosomal protein S4	RPS4
+6XU7	Chain UB	40S ribosomal protein S6	RPS6
+6XU7	Chain VB	40S ribosomal protein S7	RPS7
+6XU7	Chain WB	40S ribosomal protein S8	RPS8
+6XU7	Chain XB	40S ribosomal protein S16	RPS16
+6XU7	Chain YB	60S ribosomal protein L13a	RPL13A
+6XU7	Chain ZB	60S ribosomal protein L13	RPL13
+6XU7	Chain AC	60S ribosomal protein L23	RPL23
+6XU7	Chain H	40S ribosomal protein S20	RPS20
+6XU7	Chain BC	60S ribosomal protein L14	RPL14
+6XU7	Chain CC	P-tRNA	NO_PERFECT_MATCH_CHECK
+6XU7	Chain DC	mRNA	NO_PERFECT_MATCH_CHECK
+6XU7	Chain EC	Probable 60S ribosomal protein L37-B	RPL37
+6XU7	Chain I	40S ribosomal protein S14a	RPS14
+8G5Y	Chain A	18S rRNA	NO_PERFECT_MATCH_CHECK
+8G5Y	Chain J	40S ribosomal protein S2	RPS2
+8G5Y	Chain K	40S ribosomal protein S6	RPS6
+8G5Y	Chain L	40S ribosomal protein S5	RPS5
+8G5Y	Chain M	40S ribosomal protein S7	RPS7
+8G5Y	Chain N	40S ribosomal protein S15a	RPS15A
+8G5Y	Chain O	40S ribosomal protein S8	RPS8
+8G5Y	Chain P	40S ribosomal protein S16	RPS16
+8G5Y	Chain Q	40S ribosomal protein S20	RPS20
+8G5Y	Chain R	40S ribosomal protein S10	RPS10
+8G5Y	Chain S	40S ribosomal protein S14	RPS14
+8G5Y	Chain B	5.8S rRNA	NO_PERFECT_MATCH_CHECK
+8G5Y	Chain T	uS12	RPS23
+8G5Y	Chain U	40S ribosomal protein S12	RPS12
+8G5Y	Chain V	40S ribosomal protein S18	RPS18
+8G5Y	Chain W	40S ribosomal protein S29	RPS29
+8G5Y	Chain X	40S ribosomal protein S13	RPS13
+8G5Y	Chain Y	40S ribosomal protein S11	RPS11
+8G5Y	Chain Z	40S ribosomal protein S17	RPS17
+8G5Y	Chain AA	40S ribosomal protein S15	RPS15
+8G5Y	Chain BA	40S ribosomal protein S19	RPS19
+8G5Y	Chain CA	40S ribosomal protein S21	RPS21
+8G5Y	Chain C	28S rRNA	NO_PERFECT_MATCH_CHECK
+8G5Y	Chain DA	40S ribosomal protein S24	RPS24
+8G5Y	Chain EA	40S ribosomal protein S25	RPS25
+8G5Y	Chain FA	40S ribosomal protein S26	RPS26
+8G5Y	Chain GA	40S ribosomal protein S27	RPS27
+8G5Y	Chain HA	40S ribosomal protein S28	RPS28
+8G5Y	Chain IA	FAU ubiquitin-like and ribosomal protein S30	RPS30
+8G5Y	Chain JA	Ubiquitin-40S ribosomal protein S27a	RPL40
+8G5Y	Chain KA	Receptor of activated protein C kinase 1	NO_PERFECT_MATCH_CHECK
+8G5Y	Chain LA	60S ribosomal protein L10a	RPL10A
+8G5Y	Chain MA	uL2	RPL8
+8G5Y	Chain D	5S rRNA	NO_PERFECT_MATCH_CHECK
+8G5Y	Chain NA	60S ribosomal protein L3	RPL3
+8G5Y	Chain OA	60S ribosomal protein L4	RPL4
+8G5Y	Chain PA	60S ribosomal protein L11	RPL11
+8G5Y	Chain QA	60S ribosomal protein L9	RPL9
+8G5Y	Chain RA	60S ribosomal protein L6	RPL6
+8G5Y	Chain SA	60S ribosomal protein L7a	RPL7A
+8G5Y	Chain TA	60S ribosomal protein L13a	RPL13A
+8G5Y	Chain UA	60S ribosomal protein L13	RPL13
+8G5Y	Chain VA	60S ribosomal protein L23	RPL23
+8G5Y	Chain WA	60S ribosomal protein L14	RPL14
+8G5Y	Chain E	40S ribosomal protein S3a	RPS3A
+8G5Y	Chain XA	60S ribosomal protein L27a	RPL27A
+8G5Y	Chain YA	60S ribosomal protein L15	RPL15
+8G5Y	Chain ZA	60S ribosomal protein L10	RPL10
+8G5Y	Chain AB	60S ribosomal protein L5	RPL5
+8G5Y	Chain BB	60S ribosomal protein L18	RPL18
+8G5Y	Chain CB	60S ribosomal protein L19	RPL19
+8G5Y	Chain DB	60S ribosomal protein L18a	RPL18A
+8G5Y	Chain EB	60S ribosomal protein L21	RPL21
+8G5Y	Chain FB	60S ribosomal protein L17	RPL17
+8G5Y	Chain GB	60S ribosomal protein L22	RPL22
+8G5Y	Chain F	40S ribosomal protein SA	RPSA
+8G5Y	Chain HB	60S ribosomal protein L23a	RPL23A
+8G5Y	Chain IB	60S ribosomal protein L26	RPL26
+8G5Y	Chain JB	60S ribosomal protein L24	RPL24
+8G5Y	Chain KB	60S ribosomal protein L27	RPL27
+8G5Y	Chain LB	60S ribosomal protein L28	RPL28
+8G5Y	Chain MB	60S ribosomal protein L35	RPL35
+8G5Y	Chain NB	60S ribosomal protein L29	RPL29
+8G5Y	Chain OB	60S ribosomal protein L7	RPL7
+8G5Y	Chain PB	60S ribosomal protein L30	RPL30
+8G5Y	Chain QB	60S ribosomal protein L31	RPL31
+8G5Y	Chain G	40S ribosomal protein S3	RPS3
+8G5Y	Chain RB	60S ribosomal protein L32	RPL32
+8G5Y	Chain SB	60S ribosomal protein L35a	RPL35A
+8G5Y	Chain TB	60S ribosomal protein L34	RPL34
+8G5Y	Chain UB	60S ribosomal protein L36	RPL36
+8G5Y	Chain VB	60S ribosomal protein L37	RPL37
+8G5Y	Chain WB	60S ribosomal protein L38	RPL38
+8G5Y	Chain XB	60S ribosomal protein L39	RPL39
+8G5Y	Chain YB	eL40	RPL40
+8G5Y	Chain ZB	60S ribosomal protein L41	RPL41
+8G5Y	Chain AC	60S ribosomal protein L36a	RPL36A
+8G5Y	Chain H	40S ribosomal protein S9	RPS9
+8G5Y	Chain BC	60S ribosomal protein L37a	RPL37A
+8G5Y	Chain CC	mRNA	NO_PERFECT_MATCH_CHECK
+8G5Y	Chain DC	P-site tRNA	NO_PERFECT_MATCH_CHECK
+8G5Y	Chain EC	eIF5A1	NO_PERFECT_MATCH_CHECK
+8G5Y	Chain I	40S ribosomal protein S4, X isoform	RPS4
+7QWQ	Chain A	SRP RNA 7SL	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain J	uL3	RPL3
+7QWQ	Chain K	60S ribosomal protein L30	RPL30
+7QWQ	Chain L	60S ribosomal protein L4	RPL4
+7QWQ	Chain M	Ribosomal protein L31	RPL31
+7QWQ	Chain N	Ribosomal_L18_c domain-containing protein	RPL5
+7QWQ	Chain O	Ribosomal protein L32	RPL32
+7QWQ	Chain P	60S ribosomal protein L6	RPL6
+7QWQ	Chain Q	60S ribosomal protein L35a	RPL35A
+7QWQ	Chain R	uL30	RPL7
+7QWQ	Chain S	60S ribosomal protein L34	RPL34
+7QWQ	Chain B	Signal recognition particle 19 kDa protein	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain T	60S ribosomal protein L7a	RPL7A
+7QWQ	Chain U	60S ribosomal protein L35	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain V	60S ribosomal protein L9	RPL9
+7QWQ	Chain W	60S ribosomal protein L36	RPL36
+7QWQ	Chain X	60S ribosomal protein L10	RPL10
+7QWQ	Chain Y	Ribosomal protein L37	RPL37
+7QWQ	Chain Z	Ribosomal protein L11	RPL11
+7QWQ	Chain AA	60S ribosomal protein L38	RPL38
+7QWQ	Chain BA	60S ribosomal protein L13	RPL13
+7QWQ	Chain CA	Ribosomal protein L39	RPL39
+7QWQ	Chain C	Nascent chain preprolactin	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain DA	60S ribosomal protein L14	RPL14
+7QWQ	Chain EA	Ubiquitin A-52 residue ribosomal protein fusion product 1	RPL40
+7QWQ	Chain FA	Ribosomal protein L15	RPL15
+7QWQ	Chain GA	60s ribosomal protein l41	RPL41
+7QWQ	Chain HA	60S ribosomal protein L13a	RPL13A
+7QWQ	Chain IA	eL42	RPL36A
+7QWQ	Chain JA	60S ribosomal protein L17	RPL17
+7QWQ	Chain KA	eL43	RPL37A
+7QWQ	Chain LA	eL18	RPL18
+7QWQ	Chain MA	60S ribosomal protein L28	RPL28
+7QWQ	Chain D	Isoform 2 of Transcription factor BTF3	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain NA	60S ribosomal protein L19	RPL19
+7QWQ	Chain OA	60S ribosomal protein L18a	RPL18A
+7QWQ	Chain PA	60S ribosomal protein L21	RPL21
+7QWQ	Chain QA	Ribosomal protein L22	RPL22
+7QWQ	Chain RA	Ribosomal protein L23	RPL23
+7QWQ	Chain SA	Ribosomal protein L24	RPL24
+7QWQ	Chain TA	Ribosomal_L23eN domain-containing protein	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain UA	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain VA	Ribosomal protein L26	RPL26
+7QWQ	Chain WA	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain E	Signal recognition particle subunit SRP68	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain XA	60S ribosomal protein L27	RPL27
+7QWQ	Chain YA	60S ribosomal protein L27a	RPL27A
+7QWQ	Chain ZA	Nascent polypeptide-associated complex subunit alpha	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain F	Signal recognition particle 54 kDa protein	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain G	L8	RPL8
+7QWQ	Chain H	60S ribosomal protein L29	NO_PERFECT_MATCH_CHECK
+7QWQ	Chain I	28S rRNA	NO_PERFECT_MATCH_CHECK
+8CGN	Chain A	40S ribosomal protein S24-A	RPS24
+8CGN	Chain B	40S ribosomal protein S25-A	RPS25
+8CGN	Chain C	40S ribosomal protein S26	RPS26
+8CGN	Chain D	40S ribosomal protein S27-A	RPS27
+8CGN	Chain E	40S ribosomal protein S28-A	RPS28
+8CGN	Chain F	HLJ1_G0030400.mRNA.1.CDS.1	RPS29
+8CGN	Chain G	40S ribosomal protein S30-A	NO_PERFECT_MATCH_CHECK
+8CGN	Chain H	Guanine nucleotide-binding protein subunit beta-like protein	NO_PERFECT_MATCH_CHECK
+8CGN	Chain I	Ubiquitin-40S ribosomal protein S31	RPL40
+8CGN	Chain J	60S ribosomal protein L16-A	RPL13A
+8CGN	Chain K	25S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+8CGN	Chain L	60S ribosomal protein L17-A	NO_PERFECT_MATCH_CHECK
+8CGN	Chain M	5S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+8CGN	Chains N	Transfer RNA fMet	NO_PERFECT_MATCH_CHECK
+8CGN	Chain O	60S ribosomal protein L18-A	RPL18
+8CGN	Chain P	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+8CGN	Chain R	60S ribosomal protein L19-A	RPL19
+8CGN	Chain S	60S acidic ribosomal protein P0	RPLP0
+8CGN	Chain T	Messenger RNA	NO_PERFECT_MATCH_CHECK
+8CGN	Chain U	60S ribosomal protein L20-A	NO_PERFECT_MATCH_CHECK
+8CGN	Chain V	60S ribosomal protein L2-A	RPL8
+8CGN	Chain W	60S ribosomal protein L12-A	RPL12
+8CGN	Chain X	60S ribosomal protein L21-A	RPL21
+8CGN	Chain Y	60S ribosomal protein L3	RPL3
+8CGN	Chain Z	60S ribosomal protein L22-A	RPL22
+8CGN	Chain AA	60S ribosomal protein L4-A	RPL4
+8CGN	Chain BA	60S ribosomal protein L23-A	RPL23
+8CGN	Chain CA	60S ribosomal protein L5	RPL5
+8CGN	Chain DA	60S ribosomal protein L24-A	RPL24
+8CGN	Chain EA	60S ribosomal protein L6-A	RPL6
+8CGN	Chain FA	60S ribosomal protein L25	RPL23A
+8CGN	Chain GA	60S ribosomal protein L7-A	RPL7
+8CGN	Chain HA	60S ribosomal protein L26-A	RPL26
+8CGN	Chain IA	60S ribosomal protein L8-A	RPL7A
+8CGN	Chain JA	60S ribosomal protein L27-A	RPL27
+8CGN	Chain KA	RPL9A isoform 1	RPL9
+8CGN	Chain LA	60S ribosomal protein L28	RPL27A
+8CGN	Chain MA	60S ribosomal protein L10	RPL10
+8CGN	Chain NA	60S ribosomal protein L29	RPL29
+8CGN	Chain OA	60S ribosomal protein L11-A	RPL11
+8CGN	Chain PA	60S ribosomal protein L30	RPL30
+8CGN	Chain QA	60S ribosomal protein L13-A	RPL13
+8CGN	Chain RA	60S ribosomal protein L31-A	RPL31
+8CGN	Chain SA	60S ribosomal protein L14-A	RPL14
+8CGN	Chain TA	60S ribosomal protein L32	RPL32
+8CGN	Chain UA	60S ribosomal protein L15-A	RPL15
+8CGN	Chain VA	60S ribosomal protein L33-A	RPL35A
+8CGN	Chain WA	60S ribosomal protein L34-A	RPL34
+8CGN	Chain XA	60S ribosomal protein L35-A	RPL35
+8CGN	Chain YA	60S ribosomal protein L36-A	RPL36
+8CGN	Chain ZA	60S ribosomal protein L37-A	RPL37
+8CGN	Chain AB	60S ribosomal protein L38	RPL38
+8CGN	Chain BB	60S ribosomal protein L39	RPL39
+8CGN	Chain CB	Ubiquitin-60S ribosomal protein L40	RPL40
+8CGN	Chain DB	60S ribosomal protein L41	RPL41
+8CGN	Chain EB	60S ribosomal protein L42-A	RPL36A
+8CGN	Chain FB	60S ribosomal protein L43-A	RPL37A
+8CGN	Chain GB	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+8CGN	Chain HB	40S ribosomal protein S0-A	RPSA
+8CGN	Chain IB	40S ribosomal protein S1-A	RPS3A
+8CGN	Chain JB	40S ribosomal protein S2	RPS2
+8CGN	Chain KB	RPS3 isoform 1	RPS3
+8CGN	Chain LB	40S ribosomal protein S4-A	RPS4
+8CGN	Chain MB	40S ribosomal protein S5	RPS5
+8CGN	Chain NB	40S ribosomal protein S6-A	RPS6
+8CGN	Chain OB	40S ribosomal protein S7-A	RPS7
+8CGN	Chain PB	40S ribosomal protein S8-B	RPS8
+8CGN	Chain QB	40S ribosomal protein S9-A	RPS9
+8CGN	Chain RB	40S ribosomal protein S10-A	RPS10
+8CGN	Chain SB	40S ribosomal protein S11-A	RPS11
+8CGN	Chain TB	40S ribosomal protein S13	RPS13
+8CGN	Chain UB	40S ribosomal protein S14-A	RPS14
+8CGN	Chain VB	40S ribosomal protein S15	RPS15
+8CGN	Chain WB	40S ribosomal protein S16-A	RPS16
+8CGN	Chain XB	40S ribosomal protein S17-A	RPS17
+8CGN	Chain YB	40S ribosomal protein S18-A	RPS18
+8CGN	Chain ZB	40S ribosomal protein S19-A	RPS19
+8CGN	Chain AC	40S ribosomal protein S20	RPS20
+8CGN	Chain BC	40S ribosomal protein S21-A	RPS21
+8CGN	Chain CC	40S ribosomal protein S22-A	RPS15A
+8CGN	Chain DC	40S ribosomal protein S23-A	RPS23
+6Y0G	Chain A	mRNA	NO_PERFECT_MATCH_CHECK
+6Y0G	Chains B	tRNA	NO_PERFECT_MATCH_CHECK
+6Y0G	Chain C	Nascent peptide	NO_PERFECT_MATCH_CHECK
+6Y0G	Chain E	28S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y0G	Chain F	5S rRNA	NO_PERFECT_MATCH_CHECK
+6Y0G	Chain G	5.8S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y0G	Chain H	60S ribosomal protein L8	RPL8
+6Y0G	Chain I	60S ribosomal protein L3	RPL3
+6Y0G	Chain J	60S ribosomal protein L4	RPL4
+6Y0G	Chain K	60S ribosomal protein L5	RPL5
+6Y0G	Chain L	60S ribosomal protein L6	RPL6
+6Y0G	Chain M	60S ribosomal protein L7	RPL7
+6Y0G	Chain N	60S ribosomal protein L7a	RPL7A
+6Y0G	Chain O	60S ribosomal protein L9	RPL9
+6Y0G	Chain P	60S ribosomal protein L10-like	RPL10
+6Y0G	Chain Q	60S ribosomal protein L11	RPL11
+6Y0G	Chain R	60S ribosomal protein L13	RPL13
+6Y0G	Chain S	60S ribosomal protein L14	RPL14
+6Y0G	Chain T	60S ribosomal protein L15	RPL15
+6Y0G	Chain U	60S ribosomal protein L13a	RPL13A
+6Y0G	Chain V	60S ribosomal protein L17	RPL17
+6Y0G	Chain W	60S ribosomal protein L18	RPL18
+6Y0G	Chain X	60S ribosomal protein L19	RPL19
+6Y0G	Chain Y	60S ribosomal protein L18a	RPL18A
+6Y0G	Chain Z	60S ribosomal protein L21	RPL21
+6Y0G	Chain AA	60S ribosomal protein L22	RPL22
+6Y0G	Chain BA	60S ribosomal protein L23	RPL23
+6Y0G	Chain CA	60S ribosomal protein L24	RPL24
+6Y0G	Chain DA	60S ribosomal protein L23a	RPL23A
+6Y0G	Chain EA	60S ribosomal protein L26	RPL26
+6Y0G	Chain FA	60S ribosomal protein L27	RPL27
+6Y0G	Chain GA	60S ribosomal protein L27a	RPL27A
+6Y0G	Chain HA	60S ribosomal protein L29	RPL29
+6Y0G	Chain IA	60S ribosomal protein L30	RPL30
+6Y0G	Chain JA	60S ribosomal protein L31	RPL31
+6Y0G	Chain KA	60S ribosomal protein L32	RPL32
+6Y0G	Chain LA	60S ribosomal protein L35a	RPL35A
+6Y0G	Chain MA	60S ribosomal protein L34	RPL34
+6Y0G	Chain NA	60S ribosomal protein L35	RPL35
+6Y0G	Chain OA	60S ribosomal protein L36	RPL36
+6Y0G	Chain PA	60S ribosomal protein L37	RPL37
+6Y0G	Chain QA	60S ribosomal protein L38	RPL38
+6Y0G	Chain RA	60S ribosomal protein L39	RPL39
+6Y0G	Chain SA	Ubiquitin-60S ribosomal protein L40	RPL40
+6Y0G	Chain TA	60S ribosomal protein L41	RPL41
+6Y0G	Chain UA	60S ribosomal protein L36a	RPL36A
+6Y0G	Chain VA	60S ribosomal protein L37a	RPL37A
+6Y0G	Chain WA	60S ribosomal protein L28	RPL28
+6Y0G	Chain XA	18S ribosomal RNA	NO_PERFECT_MATCH_CHECK
+6Y0G	Chain YA	40S ribosomal protein SA	RPSA
+6Y0G	Chain ZA	40S ribosomal protein S3a	RPS3A
+6Y0G	Chain AB	40S ribosomal protein S2	RPS2
+6Y0G	Chain BB	40S ribosomal protein S3	RPS3
+6Y0G	Chain CB	40S ribosomal protein S4, X isoform	RPS4
+6Y0G	Chain DB	40S ribosomal protein S5	RPS5
+6Y0G	Chain EB	40S ribosomal protein S6	RPS6
+6Y0G	Chain FB	40S ribosomal protein S7	RPS7
+6Y0G	Chain GB	40S ribosomal protein S8	RPS8
+6Y0G	Chain HB	40S ribosomal protein S9	RPS9
+6Y0G	Chain IB	40S ribosomal protein S10	RPS10
+6Y0G	Chain JB	40S ribosomal protein S11	RPS11
+6Y0G	Chain KB	40S ribosomal protein S12	RPS12
+6Y0G	Chain LB	40S ribosomal protein S13	RPS13
+6Y0G	Chain MB	40S ribosomal protein S14	RPS14
+6Y0G	Chain NB	40S ribosomal protein S15	RPS15
+6Y0G	Chain OB	40S ribosomal protein S16	RPS16
+6Y0G	Chain PB	40S ribosomal protein S17	RPS17
+6Y0G	Chain QB	40S ribosomal protein S18	RPS18
+6Y0G	Chain RB	40S ribosomal protein S19	RPS19
+6Y0G	Chain SB	40S ribosomal protein S20	RPS20
+6Y0G	Chain TB	40S ribosomal protein S21	RPS21
+6Y0G	Chain UB	40S ribosomal protein S15a	RPS15A
+6Y0G	Chain VB	40S ribosomal protein S23	RPS23
+6Y0G	Chain WB	40S ribosomal protein S24	RPS24
+6Y0G	Chain XB	40S ribosomal protein S25	RPS25
+6Y0G	Chain YB	40S ribosomal protein S26	RPS26
+6Y0G	Chain ZB	40S ribosomal protein S27	RPS27
+6Y0G	Chain AC	40S ribosomal protein S28	RPS28
+6Y0G	Chain BC	40S ribosomal protein S29	RPS29
+6Y0G	Chain CC	40S ribosomal protein S30	NO_PERFECT_MATCH_CHECK
+6Y0G	Chain DC	Ubiquitin-40S ribosomal protein S27a	RPL40
+6Y0G	Chain EC	Receptor of activated protein C kinase 1	NO_PERFECT_MATCH_CHECK
