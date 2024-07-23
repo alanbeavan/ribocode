@@ -1,0 +1,401 @@
+[FAMILIES]
+-group_170_40S_ribosomal_protein_S20...RPS20
+alignment = alignments/group_170_40S_ribosomal_protein_S20...RPS20/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_170_40S_ribosomal_protein_S20...RPS20/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_109_40S_ribosomal_protein_S5...Q24186...Q9VFE4...RPS5
+alignment = alignments/group_109_40S_ribosomal_protein_S5...Q24186...Q9VFE4...RPS5/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_109_40S_ribosomal_protein_S5...Q24186...Q9VFE4...RPS5/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_210_60S_ribosomal_protein_L22-like_1...60S_ribosomal_protein_L22...RPL22
+alignment = alignments/group_210_60S_ribosomal_protein_L22-like_1...60S_ribosomal_protein_L22...RPL22/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_210_60S_ribosomal_protein_L22-like_1...60S_ribosomal_protein_L22...RPL22/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R4
+
+-group_74_40S_ribosomal_protein_S2...RPS2
+alignment = alignments/group_74_40S_ribosomal_protein_S2...RPS2/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_74_40S_ribosomal_protein_S2...RPS2/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R6
+
+-group_82_60S_ribosomal_protein_L28...RPL28
+alignment = alignments/group_82_60S_ribosomal_protein_L28...RPL28/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_82_60S_ribosomal_protein_L28...RPL28/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_127_60S_ribosomal_protein_L24...Probable_ribosome_biogenesis_protein_RLP24...Q9VGN9...RPL24
+alignment = alignments/group_127_60S_ribosomal_protein_L24...Probable_ribosome_biogenesis_protein_RLP24...Q9VGN9...RPL24/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_127_60S_ribosomal_protein_L24...Probable_ribosome_biogenesis_protein_RLP24...Q9VGN9...RPL24/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_162_60S_ribosomal_protein_L17...RPL17
+alignment = alignments/group_162_60S_ribosomal_protein_L17...RPL17/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_162_60S_ribosomal_protein_L17...RPL17/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R6
+
+-group_201_40S_ribosomal_protein_S24...RPS24
+alignment = alignments/group_201_40S_ribosomal_protein_S24...RPS24/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_201_40S_ribosomal_protein_S24...RPS24/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_172_60S_ribosomal_protein_L27...RPL27
+alignment = alignments/group_172_60S_ribosomal_protein_L27...RPL27/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_172_60S_ribosomal_protein_L27...RPL27/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_217_60S_ribosomal_protein_L30...RPL30
+alignment = alignments/group_217_60S_ribosomal_protein_L30...RPL30/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_217_60S_ribosomal_protein_L30...RPL30/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_84_60S_ribosomal_protein_L13a...RPL13A
+alignment = alignments/group_84_60S_ribosomal_protein_L13a...RPL13A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_84_60S_ribosomal_protein_L13a...RPL13A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_193_60S_ribosomal_protein_L37a...RPL37A
+alignment = alignments/group_193_60S_ribosomal_protein_L37a...RPL37A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_193_60S_ribosomal_protein_L37a...RPL37A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R5
+
+-group_357_RPLP3
+alignment = alignments/group_357_RPLP3/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_357_RPLP3/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+G4
+
+-group_209_60S_ribosomal_protein_L38...RPL38
+alignment = alignments/group_209_60S_ribosomal_protein_L38...RPL38/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_209_60S_ribosomal_protein_L38...RPL38/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+G4
+
+-group_203_60S_ribosomal_protein_L35a...Q9VNB9...RPL35A
+alignment = alignments/group_203_60S_ribosomal_protein_L35a...Q9VNB9...RPL35A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_203_60S_ribosomal_protein_L35a...Q9VNB9...RPL35A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_218_60S_ribosomal_protein_L36a...RPL36A
+alignment = alignments/group_218_60S_ribosomal_protein_L36a...RPL36A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_218_60S_ribosomal_protein_L36a...RPL36A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = JTT+R6
+
+-group_175_60S_ribosomal_protein_L18...RPL18
+alignment = alignments/group_175_60S_ribosomal_protein_L18...RPL18/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_175_60S_ribosomal_protein_L18...RPL18/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_226_40S_ribosomal_protein_S8...Q8MLY8...RPS8
+alignment = alignments/group_226_40S_ribosomal_protein_S8...Q8MLY8...RPS8/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_226_40S_ribosomal_protein_S8...Q8MLY8...RPS8/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_100_60S_ribosomal_protein_L8...RPL8
+alignment = alignments/group_100_60S_ribosomal_protein_L8...RPL8/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_100_60S_ribosomal_protein_L8...RPL8/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_173_40S_ribosomal_protein_S10...RPS10
+alignment = alignments/group_173_40S_ribosomal_protein_S10...RPS10/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_173_40S_ribosomal_protein_S10...RPS10/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R7
+
+-group_163_60S_ribosomal_protein_L21...RPL21
+alignment = alignments/group_163_60S_ribosomal_protein_L21...RPL21/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_163_60S_ribosomal_protein_L21...RPL21/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R6
+
+-group_158_60S_ribosomal_protein_L36...RPL36
+alignment = alignments/group_158_60S_ribosomal_protein_L36...RPL36/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_158_60S_ribosomal_protein_L36...RPL36/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_213_60S_ribosomal_protein_L31...RPL31
+alignment = alignments/group_213_60S_ribosomal_protein_L31...RPL31/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_213_60S_ribosomal_protein_L31...RPL31/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = JTT+R5
+
+-group_185_40S_ribosomal_protein_S7...Q9VA91...RPS7
+alignment = alignments/group_185_40S_ribosomal_protein_S7...Q9VA91...RPS7/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_185_40S_ribosomal_protein_S7...Q9VA91...RPS7/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_40_60S_ribosomal_protein_L7a...NHP2-like_protein_1...P32495...P39990...P46223...Q9U3Z7...Q9V3U2...RPL7A
+alignment = alignments/group_40_60S_ribosomal_protein_L7a...NHP2-like_protein_1...P32495...P39990...P46223...Q9U3Z7...Q9V3U2...RPL7A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_40_60S_ribosomal_protein_L7a...NHP2-like_protein_1...P32495...P39990...P46223...Q9U3Z7...Q9V3U2...RPL7A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_224_40S_ribosomal_protein_S26...RPS26
+alignment = alignments/group_224_40S_ribosomal_protein_S26...RPS26/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_224_40S_ribosomal_protein_S26...RPS26/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = JTT+R5
+
+-group_96_40S_ribosomal_protein_S18...RPS18
+alignment = alignments/group_96_40S_ribosomal_protein_S18...RPS18/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_96_40S_ribosomal_protein_S18...RPS18/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_117_60S_acidic_ribosomal_protein_P1...RPLP1
+alignment = alignments/group_117_60S_acidic_ribosomal_protein_P1...RPLP1/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_117_60S_acidic_ribosomal_protein_P1...RPLP1/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+F+G4
+
+-group_156_60S_ribosomal_protein_L18a...RPL18A
+alignment = alignments/group_156_60S_ribosomal_protein_L18a...RPL18A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_156_60S_ribosomal_protein_L18a...RPL18A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_181_60S_ribosomal_protein_L27a...RPL27A
+alignment = alignments/group_181_60S_ribosomal_protein_L27a...RPL27A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_181_60S_ribosomal_protein_L27a...RPL27A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R5
+
+-group_21_40S_ribosomal_protein_S9...Q7JZ53...Q95RG1...RPS9
+alignment = alignments/group_21_40S_ribosomal_protein_S9...Q7JZ53...Q95RG1...RPS9/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_21_40S_ribosomal_protein_S9...Q7JZ53...Q95RG1...RPS9/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_154_40S_ribosomal_protein_S23...RPS23
+alignment = alignments/group_154_40S_ribosomal_protein_S23...RPS23/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_154_40S_ribosomal_protein_S23...RPS23/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = VT+R7
+
+-group_189_40S_ribosomal_protein_S27...Q9VBU9...RPS27
+alignment = alignments/group_189_40S_ribosomal_protein_S27...Q9VBU9...RPS27/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_189_40S_ribosomal_protein_S27...Q9VBU9...RPS27/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = JTT+G4
+
+-group_155_60S_ribosomal_protein_L23...RPL23
+alignment = alignments/group_155_60S_ribosomal_protein_L23...RPL23/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_155_60S_ribosomal_protein_L23...RPL23/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_148_40S_ribosomal_protein_S15a...RPS15A
+alignment = alignments/group_148_40S_ribosomal_protein_S15a...RPS15A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_148_40S_ribosomal_protein_S15a...RPS15A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R4
+
+-group_174_60S_ribosomal_protein_L37...RPL37
+alignment = alignments/group_174_60S_ribosomal_protein_L37...RPL37/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_174_60S_ribosomal_protein_L37...RPL37/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R5
+
+-group_199_60S_ribosomal_protein_L15...RPL15
+alignment = alignments/group_199_60S_ribosomal_protein_L15...RPL15/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_199_60S_ribosomal_protein_L15...RPL15/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R4
+
+-group_179_40S_ribosomal_protein_S21...O76927...RPS21
+alignment = alignments/group_179_40S_ribosomal_protein_S21...O76927...RPS21/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_179_40S_ribosomal_protein_S21...O76927...RPS21/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+G4
+
+-group_77_40S_ribosomal_protein_S16...Q9W237...RPS16
+alignment = alignments/group_77_40S_ribosomal_protein_S16...Q9W237...RPS16/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_77_40S_ribosomal_protein_S16...Q9W237...RPS16/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_272_RPL41
+alignment = alignments/group_272_RPL41/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_272_RPL41/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG
+
+-group_85_FAU_ubiquitin-like_and_ribosomal_protein_S30...RPS30
+alignment = alignments/group_85_FAU_ubiquitin-like_and_ribosomal_protein_S30...RPS30/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_85_FAU_ubiquitin-like_and_ribosomal_protein_S30...RPS30/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+G4
+
+-group_87_40S_ribosomal_protein_S11...RPS11
+alignment = alignments/group_87_40S_ribosomal_protein_S11...RPS11/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_87_40S_ribosomal_protein_S11...RPS11/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_197_40S_ribosomal_protein_S17...RPS17
+alignment = alignments/group_197_40S_ribosomal_protein_S17...RPS17/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_197_40S_ribosomal_protein_S17...RPS17/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_211_40S_ribosomal_protein_S13...Q03334...RPS13
+alignment = alignments/group_211_40S_ribosomal_protein_S13...Q03334...RPS13/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_211_40S_ribosomal_protein_S13...Q03334...RPS13/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R4
+
+-group_206_60S_ribosomal_protein_L39...RPL39
+alignment = alignments/group_206_60S_ribosomal_protein_L39...RPL39/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_206_60S_ribosomal_protein_L39...RPL39/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+G4
+
+-group_125_60S_acidic_ribosomal_protein_P2...RPLP2
+alignment = alignments/group_125_60S_acidic_ribosomal_protein_P2...RPLP2/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_125_60S_acidic_ribosomal_protein_P2...RPLP2/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+F+R7
+
+-group_142_40S_ribosomal_protein_S19...P39018...Q7KS38...RPS19
+alignment = alignments/group_142_40S_ribosomal_protein_S19...P39018...Q7KS38...RPS19/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_142_40S_ribosomal_protein_S19...P39018...Q7KS38...RPS19/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_223_40S_ribosomal_protein_S4___X_isoform...40S_ribosomal_protein_S4...RPS4
+alignment = alignments/group_223_40S_ribosomal_protein_S4___X_isoform...40S_ribosomal_protein_S4...RPS4/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_223_40S_ribosomal_protein_S4___X_isoform...40S_ribosomal_protein_S4...RPS4/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_14_40S_ribosomal_protein_S14...C0HKA0...Q9VEN6...RPS14
+alignment = alignments/group_14_40S_ribosomal_protein_S14...C0HKA0...Q9VEN6...RPS14/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_14_40S_ribosomal_protein_S14...C0HKA0...Q9VEN6...RPS14/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_135_60S_ribosomal_protein_L14...P55841...RPL14
+alignment = alignments/group_135_60S_ribosomal_protein_L14...P55841...RPL14/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_135_60S_ribosomal_protein_L14...P55841...RPL14/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_115_60S_ribosomal_protein_L3...RPL3
+alignment = alignments/group_115_60S_ribosomal_protein_L3...RPL3/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_115_60S_ribosomal_protein_L3...RPL3/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_0_Q9VLK2...RPL10A...Ribosomal_L1_domain-containing_protein_1...Ribosomal_protein
+alignment = alignments/group_0_Q9VLK2...RPL10A...Ribosomal_L1_domain-containing_protein_1...Ribosomal_protein/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_0_Q9VLK2...RPL10A...Ribosomal_L1_domain-containing_protein_1...Ribosomal_protein/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R9
+
+-group_129_60S_ribosomal_protein_L35...Q9W499...RPL35
+alignment = alignments/group_129_60S_ribosomal_protein_L35...Q9W499...RPL35/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_129_60S_ribosomal_protein_L35...Q9W499...RPL35/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+G4
+
+-group_221_60S_ribosomal_protein_L10-like...60S_ribosomal_protein_L10...O61231...RPL10
+alignment = alignments/group_221_60S_ribosomal_protein_L10-like...60S_ribosomal_protein_L10...O61231...RPL10/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_221_60S_ribosomal_protein_L10-like...60S_ribosomal_protein_L10...O61231...RPL10/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_202_60S_ribosomal_protein_L32...RPL32
+alignment = alignments/group_202_60S_ribosomal_protein_L32...RPL32/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_202_60S_ribosomal_protein_L32...RPL32/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R5
+
+-group_152_40S_ribosomal_protein_S3...RPS3
+alignment = alignments/group_152_40S_ribosomal_protein_S3...RPS3/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_152_40S_ribosomal_protein_S3...RPS3/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_70_40S_ribosomal_protein_SA...P38979...RPSA
+alignment = alignments/group_70_40S_ribosomal_protein_SA...P38979...RPSA/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_70_40S_ribosomal_protein_SA...P38979...RPSA/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R9
+
+-group_133_40S_ribosomal_protein_S15...Q7JZW2...RPS15
+alignment = alignments/group_133_40S_ribosomal_protein_S15...Q7JZW2...RPS15/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_133_40S_ribosomal_protein_S15...Q7JZW2...RPS15/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_137_60S_ribosomal_protein_L6...Q9V9W3...RPL6
+alignment = alignments/group_137_60S_ribosomal_protein_L6...Q9V9W3...RPL6/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_137_60S_ribosomal_protein_L6...Q9V9W3...RPL6/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R6
+
+-group_157_60S_ribosomal_protein_L23a...Q9W0A8...RPL23A
+alignment = alignments/group_157_60S_ribosomal_protein_L23a...Q9W0A8...RPL23A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_157_60S_ribosomal_protein_L23a...Q9W0A8...RPL23A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = JTT+R6
+
+-group_215_60S_ribosomal_protein_L26...Q9VVU2...RPL26
+alignment = alignments/group_215_60S_ribosomal_protein_L26...Q9VVU2...RPL26/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_215_60S_ribosomal_protein_L26...Q9VVU2...RPL26/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_67_60S_acidic_ribosomal_protein_P0...P19889...Q7K1Q7...RPLP0...mRNA_turnover_protein_4_homolog
+alignment = alignments/group_67_60S_acidic_ribosomal_protein_P0...P19889...Q7K1Q7...RPLP0...mRNA_turnover_protein_4_homolog/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_67_60S_acidic_ribosomal_protein_P0...P19889...Q7K1Q7...RPLP0...mRNA_turnover_protein_4_homolog/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R9
+
+-group_205_40S_ribosomal_protein_S29...RPS29
+alignment = alignments/group_205_40S_ribosomal_protein_S29...RPS29/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_205_40S_ribosomal_protein_S29...RPS29/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = VT+G4
+
+-group_85_RPL40
+alignment = alignments/group_85_RPL40/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_85_RPL40/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = VT+G4
+
+-group_85_RPS27A
+alignment = alignments/group_85_RPS27A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_85_RPS27A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+G4
+
+-group_184_60S_ribosomal_protein_L12...RPL12
+alignment = alignments/group_184_60S_ribosomal_protein_L12...RPL12/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_184_60S_ribosomal_protein_L12...RPL12/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R4
+
+-group_160_60S_ribosomal_protein_L11...RPL11
+alignment = alignments/group_160_60S_ribosomal_protein_L11...RPL11/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_160_60S_ribosomal_protein_L11...RPL11/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
+-group_219_40S_ribosomal_protein_S3a...RPS3A
+alignment = alignments/group_219_40S_ribosomal_protein_S3a...RPS3A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_219_40S_ribosomal_protein_S3a...RPS3A/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_187_60S_ribosomal_protein_L13...RPL13
+alignment = alignments/group_187_60S_ribosomal_protein_L13...RPL13/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_187_60S_ribosomal_protein_L13...RPL13/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R8
+
+-group_130_40S_ribosomal_protein_S28...A8DYY3...Q9VAB9...Q9W334...RPS28
+alignment = alignments/group_130_40S_ribosomal_protein_S28...A8DYY3...Q9VAB9...Q9W334...RPS28/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_130_40S_ribosomal_protein_S28...A8DYY3...Q9VAB9...Q9W334...RPS28/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = VT+G4
+
+-group_150_60S_ribosomal_protein_L5...Q9W5R8...RPL5
+alignment = alignments/group_150_60S_ribosomal_protein_L5...Q9W5R8...RPL5/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_150_60S_ribosomal_protein_L5...Q9W5R8...RPL5/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_123_60S_ribosomal_protein_L7-like_1...60S_ribosomal_protein_L7...P32100...Q9VKC1...RPL7
+alignment = alignments/group_123_60S_ribosomal_protein_L7-like_1...60S_ribosomal_protein_L7...P32100...Q9VKC1...RPL7/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_123_60S_ribosomal_protein_L7-like_1...60S_ribosomal_protein_L7...P32100...Q9VKC1...RPL7/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_178_60S_ribosomal_protein_L29...RPL29
+alignment = alignments/group_178_60S_ribosomal_protein_L29...RPL29/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_178_60S_ribosomal_protein_L29...RPL29/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = VT+G4
+
+-group_114_60S_ribosomal_protein_L4...RPL4
+alignment = alignments/group_114_60S_ribosomal_protein_L4...RPL4/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_114_60S_ribosomal_protein_L4...RPL4/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_177_40S_ribosomal_protein_S6...P29327...RPS6
+alignment = alignments/group_177_40S_ribosomal_protein_S6...P29327...RPS6/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_177_40S_ribosomal_protein_S6...P29327...RPS6/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_165_40S_ribosomal_protein_S25...RPS25
+alignment = alignments/group_165_40S_ribosomal_protein_S25...RPS25/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_165_40S_ribosomal_protein_S25...RPS25/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = WAG+R5
+
+-group_153_60S_ribosomal_protein_L34...Q9VBH8...Q9VHE5...RPL34
+alignment = alignments/group_153_60S_ribosomal_protein_L34...Q9VBH8...Q9VHE5...RPL34/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_153_60S_ribosomal_protein_L34...Q9VBH8...Q9VHE5...RPL34/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = VT+R5
+
+-group_101_60S_ribosomal_protein_L9...RPL9
+alignment = alignments/group_101_60S_ribosomal_protein_L9...RPL9/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_101_60S_ribosomal_protein_L9...RPL9/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R7
+
+-group_23_40S_ribosomal_protein_S12...P80455...RPS12
+alignment = alignments/group_23_40S_ribosomal_protein_S12...P80455...RPS12/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_23_40S_ribosomal_protein_S12...P80455...RPS12/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R6
+
+-group_192_60S_ribosomal_protein_L19...RPL19
+alignment = alignments/group_192_60S_ribosomal_protein_L19...RPL19/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered
+starting_gene_tree = alignments/group_192_60S_ribosomal_protein_L19...RPL19/aln.aln.fa.longest_peptides_from_headers.smaller.trimmed.gt50.filtered.treefile
+subst_model = LG+R5
+
